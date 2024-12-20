@@ -1,0 +1,291 @@
+.input-form {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 50px;
+    padding: 20px;
+    margin-top: 10px;
+    transform-origin: top;
+    animation: slideDown 0.5s ease-out;
+
+  background: linear-gradient(black, #212121) padding-box,
+              linear-gradient(145deg, transparent 35%,#e81cff, #40c9ff) border-box;
+  border: 2px solid transparent;
+    transition: all 1.3s ease;
+
+  font-size: 14px;
+  font-family: inherit;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  box-sizing: border-box;
+
+
+
+}
+
+body.light-theme .input-form{
+    color: #212121;
+    background: linear-gradient( white, darkgray ) padding-box,
+    linear-gradient(145deg, transparent 35%,#e81cff, #40c9ff) border-box; /* Açık tema geçişi */
+    border: 2px solid transparent;
+    transition: all 1.3s ease;
+
+
+}
+
+
+.input-form.closing {
+    animation: slideUp 0.5s ease-out;
+}
+
+
+
+.submit-button {
+    width: 100%;
+    padding: 12px;
+    background: #3498db;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    opacity: 0.8;
+}
+
+.submit-button:hover:not(:disabled) {
+    background: linear-gradient(to right, lightblue,#8e2de2,#4a00e0 );
+    transform: translateY(-2px);
+    opacity: 1;
+}
+
+body.light-theme.submit-button:hover:not(:disabled){
+    background: linear-gradient(to right, cyan,#8e2de2,#4a00e0 );
+}
+
+.submit-button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+@keyframes slideDown {
+    from {
+        transform: scaleY(0);
+        opacity: 0;
+    }
+    to {
+        transform: scaleY(1);
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: scaleY(1);
+        opacity: 1;
+    }
+    to {
+        transform: scaleY(0);
+        opacity: 0;
+    }
+}
+
+
+
+
+.input-form.show {
+    display: flex;
+}
+
+.form-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.close-button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.close-button:hover {
+    transform: rotate(90deg);
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 16px;
+    padding-right: 40px;
+    font-size: 16px;
+    border-radius: 50px;
+    margin-top: 15px; /* Burada input'u 15px aşağıya kaydırıyoruz */
+    outline: none;
+    transition: all 0.3s ease;
+    background: linear-gradient(144deg,black, black 50%,black);
+    opacity: 0.5;
+    color: #f4f6f8;
+}
+
+body.light-theme .input-group input{
+    background: rgba(255,255,255,0.7);
+    color: #212121;
+
+}
+
+.input-group:focus {
+  animation: rotateShadow 2s infinite linear;
+}
+
+@keyframes rotateShadow {
+  0% {
+    box-shadow: -2px -2px 8px 1px #aa00ff, 2px 2px 8px 1px #3700ff;
+  }
+  25% {
+    box-shadow: -2px 2px 8px 1px #aa00ff, 2px -2px 8px 1px #3700ff;
+  }
+  50% {
+    box-shadow: 2px 2px 8px 1px #aa00ff, -2px -2px 8px 1px #3700ff;
+  }
+  75% {
+    box-shadow: 2px -2px 8px 1px #aa00ff, -2px 2px 8px 1px #3700ff;
+  }
+  100% {
+    box-shadow: -2px -2px 8px 1px #aa00ff, 2px 2px 8px 1px #3700ff;
+  }
+}
+
+
+
+
+
+
+.input-group input.valid {
+    border-color: #2ecc71;
+}
+
+.input-group input.invalid {
+    border-color: #e74c3c;
+}
+
+.input-group.focused input {
+    border-color: #3498db;
+    box-shadow: 0 0 15px rgba(52, 152, 219, 0.3);
+}
+
+.input-group.valid input {
+    border-color: #2ecc71;
+}
+
+.input-group.invalid input {
+    border-color: #e74c3c;
+}
+
+.validation-icon {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: none;
+    font-size: 18px;
+    color: white;
+
+}
+
+.validation-icon.success {
+    color: #2ecc71;
+}
+
+.validation-icon.error {
+    color: #e74c3c;
+}
+
+.input-group.valid .validation-icon.success {
+    display: block;
+}
+
+.input-group.invalid .validation-icon.error {
+    display: block;
+}
+
+.validation-message {
+    position: absolute;
+    left: 0;
+    bottom: -20px;
+    font-size: 12px;
+    color: #e74c3c;
+}
+
+.submit-button {
+    backdrop-filter: blur(100px);
+    border: 2px solid rgba(255, 255, 255, 1);
+    width: 100%;
+    padding: 16px;
+    background: linear-gradient(to right, #4a00e0, #8e2de2,lightblue);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    margin-top: -5px; /* Burada input'u -5px yukarı kaydırıyoruz */
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    opacity: 0.7;
+}
+
+body.light-theme .submit-button{
+    background: linear-gradient(to right, #4a00e0, #8e2de2,cyan);
+}
+
+.submit-button:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.submit-button.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.submit-button.active:hover {
+    background: linear-gradient(to right, #4a00e0, #8e2de2,lightblue);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+}
+
+.author-form.success {
+    animation: formSuccess 1s ease-out forwards;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes formSuccess {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(0);
+        opacity: 0;
+    }
+}

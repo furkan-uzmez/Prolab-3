@@ -1,0 +1,932 @@
+B. Rajakumar : 0000-0003-0788-1499
+['Thermal Decomposition of 2-Pentanol: A Shock Tube Study and RRKM Calculations.', 'Visible Absorption Spectrum of the CH3CO Radical', 'Addition and abstraction kinetics of H atom with propylene and isobutylene between 200 and 2500 K: A DFT study', 'Kinetic investigations of chlorine atom initiated photo oxidation reactions of 2,3-dimethyl-1,3-butadiene in the gas phase: an experimental and theoretical study', 'Unimolecular HCl Elimination from 1,2-Dichloroethane: A Single Pulse Shock Tube and ab Initio Studyâ€\xa0', 'Kinetics of the thermal decomposition of tetramethylsilane behind the reflected shock waves between 1058 and 1194 K', 'Computational study on OH radical reaction with CHF2CHFCHF2(HFCâ€\x90245ea) between 200 and 400 K', 'Experimental and computational investigation on the gas phase reaction of p-cymene with Cl atoms.', 'Abstraction kinetics of H-atom by OH radical from pinonaldehyde (C10H16O2): ab initio and transition-state theory calculations.', 'Mechanism, kinetics and atmospheric fate of CF3CHCH2, CF3CFCH2, and CF3CFCF2 by its reaction with OH-radicals: CVT/SCT/ISPE and hybrid meta-DFT methods', 'Kinetic parameters of abstraction reactions of OH radical with ethylene, fluoroethylene, cis- and trans-1,2-difluoroethylene and 1,1-difluoroethylene, in the temperature range of 200â€“400 K: Gaussian-3/B3LYP theory', 'Experimental and Theoretical Investigations on the Reaction of 1,3-Butadiene with Cl Atom in the Gas Phase', 'Kinetics of OH radical reaction with CF3CHFCH2F (HFC-245eb) between 200 and 400K: G3MP2, G3B3 and transition state theory calculations', 'Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach', 'Thermodynamic and kinetic studies of hydroxyl radical reaction with bromine oxide using density functional theory', 'Theoretical investigations on the kinetics of p-cymene + OH reaction', 'Kinetic parameters for the reaction of OH radical with cis-CHFCHCHF2, trans-CHFCHCHF2, CF2CHCHF2 and CF2CCHF: Hybrid meta DFT and CVT/SCT/ISPE calculations']
+[' A. Parandaman : 2  ',' Jonathan E. Flad : 1  ',' Tomasz Gierczak : 1  ',' A. R. Ravishankara : 1  ',' James B. Burkholder : 1  ',' S. Vijayakumar : 2  ',' K. P. J. Reddy : 1  ',' E. Arunan : 1  ',' A Parandaman : 1  ',' Mohamad Akbar Ali : 4  ',' Manas Ranjan Dash : 3  ',' G. Srinivasulu : 1  ',' M Balaganesh : 1  ',' B. Upendra : 1  ',' Sudip Mandal : 1  ',' Suman Kushwaha : 1  ',' Ramesh Mukkamala : 1  ',' Vijaya K. Siripina : 1  ',' Indrapal Singh Aidhen : 1  ',' Ramanujam Kothandaraman : 1  ',' C. Ramanjaneyulu : 1  ',]
+
+B. Rajakumar : 0000-0002-3344-5159
+['Temperature-Dependent Kinetics of the Reaction of a Criegee Intermediate with Propionaldehyde: A Computational Investigation', 'Photo Oxidation Reaction Kinetics of Ethyl Propionate with Cl Atom and Formation of Propionic Acid']
+[' Revathy Kaipara : 1  ',' Ramya Cheramangalath Balan : 1  ',]
+
+S. Rajakumar : 0000-0001-7631-8857
+['Workflow balancing in parallel machines through genetic algorithm.', 'Workflow balancing in parallel machine scheduling with precedence constraints using genetic algorithm']
+[' V. P. Arunachalam : 1  ',' V. Selladurai : 2  ',' V.P. Arunachalam : 1  ',]
+
+Rajakumar S : 0000-0001-8011-4961
+['High temperature diffusion bonding of austenitic stainless steel to titanium dissimilar joints']
+[' Arun Negemiya A : 1  ',' Balasubramanian : 1  ',]
+
+Rajalakshmi R : 0000-0002-3429-6925
+['EVALUATION OF PROXIMATE PRINCIPLES AND ANTIOXIDANT ACTIVITY OF MORINGA OLEIFERA LAM. (DRUM STICK TREE) IN KERALA.']
+[' AjuB Y : 1  ',' Mini S : 1  ',]
+
+R. Rajalakshmi : 0000-0002-6570-483X
+['Identifying Health Domain URLs using SVM']
+[]
+
+Rajan Choudhary : 0000-0003-0901-5076
+['Permanent Deformation Characteristics of Warm Asphalt Binders under Reduced Aging Conditions', 'Clogging evaluation of open graded friction course mixes with EAF steel slag and modified binders', 'Properties of Waste Polyethylene Terephthalate (PET) Modified Asphalt Mixes: Dependence on PET Size, PET Content, and Mixing Process', 'Calibration of HDM-4 models for Indian conditions of flexible pavement having modified bitumen in wearing course', 'Laboratory Evaluation of Mix Design Parameters of Open-Graded Friction Course Mixes with Electric Arc Furnace Steel Slag', 'Application of WMA Technology to Bituminous Base Course Mixes', 'Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives', 'Rheology of modified binders under varying doses of WMA additiveâ€“Sasobit', 'Use of industrial wastes as filler in open-graded friction courses', 'Characterization of Fly Ash Bituminous Concrete Mixes', 'Moisture susceptibility of WMA mixes with modified bituminous binders', 'Evaluation of Frictional Pavement Resistance as a Function of Aggregate Physical Properties', 'Performance Characteristics of Bituminous Concrete with Industrial Wastes as Filler']
+[' Ashok Julaganti : 5  ',' Abhinay Kumar : 7  ',' Madhu Lisha Pattanaik : 3  ',' Bimlesh Kumar : 3  ',' Kishori Murkute : 1  ',' Sanjay Deori : 1  ',' Devesh Tiwari : 1  ',' S. Gangopadhyay : 1  ',' Asho Julaganti : 1  ',' Dipak Arjun Ugale : 1  ',' Prithvi Singh Kandhal : 1  ',' Om Prakash Behera : 1  ',' Abhishek Singh : 1  ',' Rajesh Kumar : 1  ',' Dibyatonu Chattopadhyay : 1  ',' Vishal Sharma : 1  ',' Satish Chandra : 2  ',]
+
+Rajan Choudhary : 0000-0001-6370-8071
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies', 'In vitro bioactivity studies of larnite and larnite/chitin composites prepared from biowaste for biomedical applications', 'In-vitro bioactivity of nanocrystalline and bulk larnite/chitosan composites: comparative study', 'Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications', 'In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method', 'Bioactivity studies of calcium magnesium silicate prepared from eggshell waste by sol-gel combustion synthesis', 'A Fundamental Approach Toward Polymers and Polymer Composites: Current Trends for Biomedical Applications']
+[' Prasanth Manohar : 1  ',' Jana Vecstaudza : 2  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Ramesh Nachimuthu : 1  ',' Janis Locs : 2  ',' Sasikumar Swamiappan : 5  ',' Senthil Kumar Venkatraman : 3  ',' Anjali Rana : 1  ',' Sivasankar Koppala : 3  ',' Aviral Srivastava : 1  ',' Swamiappan Sasikumar : 1  ',' Ankita Chatterjee : 1  ',' Jayanthi Abraham : 1  ',' G. Krishnamurithy : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Malliga Raman Murali : 1  ',' Tunku Kamarul : 1  ',' Mohit Saraswat : 1  ',]
+
+Rajan Ghimire : 0000-0002-6962-6066
+['Crop Diversification Improves pH in Acidic Soils', 'Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains', 'Soil acidity limits wheat yield in dryland regions of the Inland Pacific Northwest', 'Cover Crop Residue Amount and Quality Effects on Soil Organic Carbon Mineralization', 'Crop Yield and Soil Fertility Status of Long-Term Rice-Rice-Wheat Cropping Systems', 'Effects of tillage system on greenhouse gas fluxes and soil mineral nitrogen in wheat (Triticum aestivum, L.)-fallow during drought', 'Water and nitrogen management effects on semiarid sorghum production and soil trace gas flux under future climate', 'Alfalfa-grass biomass, soil organic carbon, and total nitrogen under different management approaches in an irrigated agroecosystem', 'U.S. West: One-time summer tillage does not negate long-term benefits of no-till', 'Greenhouse Gas Fluxes and Soil Carbon and Nitrogen Following Single Summer Tillage Event', 'Soil pH, Soil Organic Matter, and Crop Yields in Winter Wheatâ€“Summer Fallow Systems', 'Increasing Crop Water Productivity through Local Crops and Technologies: A Case from the Ethnic Chepang Community of Nepal']
+[' Prakriti Bista : 5  ',' Binod Ghimire : 2  ',' Abdel O. Mesbah : 1  ',' Omololu John Idowu : 1  ',' Michael K. Oâ€™Neill : 1  ',' Sangamesh V. Angadi : 1  ',' Manoj K. Shukla : 1  ',' Stephen Machado : 2  ',' Dawn VanLeeuwen : 1  ',' Abdel Mesbah : 1  ',' Nabin Rawal : 1  ',' Devraj Chalise : 1  ',' Urszula Norton : 3  ',' Jay B. Norton : 4  ',' Benjamin D. Duval : 1  ',' Melannie D. Hartman : 1  ',' Mark A. Marsalis : 1  ',' Elise Pendall : 1  ',' Bed P. Khatiwada : 1  ',' Rabindra Adhikari : 1  ',' Surendra Osti : 1  ',]
+
+Rajan Ghimire : 0000-0001-5095-8477
+['Perinatal Outcome of Vaginal Breech Delivery versus Caesarean Breech Delivery in a Tertiary Care Center']
+[' Rajendra Kumar Chaudhary : 1  ',' Deepak Raj Kafle : 1  ',]
+
+Rajan T. Gupta : 0000-0002-2984-5010
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'MDCT Evaluation of the Pancreas: Nuts and Bolts', 'A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).', 'Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.', 'Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'Massive gas gangrene secondary to occult colon carcinoma.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound', 'Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values', 'Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?', 'The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer', 'How and why a generation of radiologists must be trained to accurately interpret prostate mpMRI.', 'Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements', 'Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:', 'PET appearance of tuberculous empyema necessitans.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer', 'Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?', 'How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas', 'Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium', 'Practice and Quality Improvement: Successful Implementation of TeamSTEPPS Tools Into an Academic Interventional Ultrasound Practice', 'Computed high b-value diffusion-weighted imaging improves lesion contrast and conspicuity in prostate cancer', 'Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.', 'Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.', 'Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?', 'Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality', 'Imaging Advances in Urolithiasis', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Mark L. Palmeri : 4  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 6  ',' Alison F. Brown : 1  ',' John Madden : 3  ',' Kathryn R. Nightingale : 3  ',' Mustafa R. Bashir : 6  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',' Brian M. Dale : 3  ',' Jeffrey J. Horvath : 1  ',' Daniel T. Boll : 4  ',' Elmar M. Merkle : 7  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',' Andrew S. Griffin : 1  ',' Matthew D. Crawford : 1  ',' Steven R. Breault : 1  ',' Tobias Heye : 1  ',' Caecilia S. Reiner : 1  ',' Kamil F. Faridi : 2  ',' Pranay Krishnan : 1  ',' Christopher M. Brady : 2  ',' Daniela B. Husarik : 1  ',' Ariel A. Schulman : 1  ',' Christina Sze : 1  ',' Efrat Tsivian : 1  ',' Judd W. Moul : 1  ',' Benjamin Spilseth : 1  ',' Adam T. Froemming : 1  ',' Daniele Marin : 3  ',' Drew Davis : 1  ',' Kingshuk Roy Choudhury : 2  ',' Bhavik Patel : 1  ',' Achille Mileto : 2  ',' Rendon C. Nelson : 4  ',' Brian C. Allen : 3  ',' Tobias J. Heye : 1  ',' Matthew P. Lungren : 1  ',' Jared D. Christensen : 1  ',' R. Edward Coleman : 1  ',' Kirema Garcia-Reyes : 3  ',' Christopher Kauffman : 2  ',' Evan Kulbacki : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Christopher R. Kauffman : 1  ',' John F. Madden : 2  ',' Andrew B. Rosenkrantz : 1  ',' Kristina I. Ringe : 1  ',' Christopher M. Massey : 1  ',' Andreas Hahn : 1  ',' Michael Galanski : 1  ',' Joachim Lotz : 1  ',' Bhavik N. Patel : 1  ',' Sabino Zani : 1  ',' R. Brooke Jeffrey : 1  ',' Erik K. Paulson : 2  ',' Christine M. Iseman : 1  ',' John R. Leyendecker : 1  ',' Inna Shyknevsky : 1  ',' Bachir Taouli : 1  ',' J. Bryan Sexton : 1  ',' Judy Milne : 1  ',' Donald P. Frush : 1  ',' S Feuerlein : 1  ',' M S Davenport : 1  ',' A Krishnaraj : 1  ',' E M Merkle : 1  ',' Matthew S. Davenport : 2  ',' Tracy A. Jaffe : 2  ',' Lisa M. Ho : 3  ',' Rekha Mody : 1  ',' Amy Neville : 1  ',' Ramin Javan : 1  ',' Danielle Seaman : 1  ',' Charles Y. Kim : 1  ',' Abhay A. Singh : 1  ',' NiccolÃ² M. Passoni : 1  ',' Courtney A. Coursey : 1  ',' Amy M. Neville : 1  ',' Sebastian T. Schindera : 1  ',' K J Tay : 1  ',' J Holtz : 1  ',' R K Silverman : 1  ',' E Tsivian : 1  ',' A Schulman : 1  ',' J W Moul : 1  ',' T J Polascik : 1  ',' DaleJoanne : 1  ',' MarinDaniele : 1  ',' LipkinMichael : 1  ',' PremingerGlenn : 1  ',' Christina M.L. Hsu : 1  ',]
+
+Rajan Gupta : 0000-0002-9851-4047
+['Basis Function and PN Phase Generation in TDCS and WDCS towards Dynamic Spectrum Access', 'Understanding Fraudulent Activities through M-Commerce Transactions', 'Proposal for integrated system architecture in utilities.', 'Implementation & Analysis of Integrated Utility System in Developing Nation like India', 'Development of e-Governance in an Emerging Economy Like India: Assessment and Way Ahead for Key Components', 'Internet Traffic Surveillance & Network Monitoring in India: Case Study of NETRA', 'Binary Division Fuzzy C-Means Clustering and Particle Swarm Optimization Based Efficient Intrusion Detection for E-Governance Systems', 'Design & Analysis of Clustering based Intrusion Detection Schemes for E-Governance', 'The Need of a Development Assessment Index for e-Governance in India', 'A Machine Learning Framework for Predicting Purchase by Online Customers based on Dynamic Pricing', 'Design and Analysis of New Shuffle Encryption Schemes for Multimedia', 'Dynamic route map generation scheme for mobiles', 'Hybrid model to improve Bat algorithm performance', 'Network Monitoring and Internet Traffic Surveillance System: Issues and Challenges in India']
+[' Mrinal Sharma : 1  ',' Sunil Kumar Muttoo : 6  ',' Saibal Kumar Pal : 2  ',' Saibal K. Pal : 7  ',' Sunil K. Muttoo : 3  ',' Saibal K Pal : 2  ',' Chaitanya Pathak : 1  ',' Ankur Aggarwal : 1  ',' Sunil K Muttoo : 1  ',' Neeharika Chaudhary : 1  ',]
+
+A. Parandaman : 0
+['Thermal Decomposition of 2-Pentanol: A Shock Tube Study and RRKM Calculations.', 'Addition and abstraction kinetics of H atom with propylene and isobutylene between 200 and 2500 K: A DFT study']
+[' B. Rajakumar : 2  ',]
+
+Jonathan E. Flad : 0
+['Visible Absorption Spectrum of the CH3CO Radical']
+[' B. Rajakumar : 1  ',' Tomasz Gierczak : 1  ',' A. R. Ravishankara : 1  ',' James B. Burkholder : 1  ',]
+
+Tomasz Gierczak : 0
+['Visible Absorption Spectrum of the CH3CO Radical']
+[' B. Rajakumar : 1  ',' Jonathan E. Flad : 1  ',' A. R. Ravishankara : 1  ',' James B. Burkholder : 1  ',]
+
+A. R. Ravishankara : 0
+['Visible Absorption Spectrum of the CH3CO Radical']
+[' B. Rajakumar : 1  ',' Jonathan E. Flad : 1  ',' Tomasz Gierczak : 1  ',' James B. Burkholder : 1  ',]
+
+James B. Burkholder : 0
+['Visible Absorption Spectrum of the CH3CO Radical']
+[' B. Rajakumar : 1  ',' Jonathan E. Flad : 1  ',' Tomasz Gierczak : 1  ',' A. R. Ravishankara : 1  ',]
+
+S. Vijayakumar : 0
+['Kinetic investigations of chlorine atom initiated photo oxidation reactions of 2,3-dimethyl-1,3-butadiene in the gas phase: an experimental and theoretical study', 'Experimental and Theoretical Investigations on the Reaction of 1,3-Butadiene with Cl Atom in the Gas Phase']
+[' B. Rajakumar : 2  ',]
+
+K. P. J. Reddy : 0
+['Unimolecular HCl Elimination from 1,2-Dichloroethane: A Single Pulse Shock Tube and ab Initio Studyâ€\xa0']
+[' B. Rajakumar : 1  ',' E. Arunan : 1  ',]
+
+E. Arunan : 0
+['Unimolecular HCl Elimination from 1,2-Dichloroethane: A Single Pulse Shock Tube and ab Initio Studyâ€\xa0']
+[' B. Rajakumar : 1  ',' K. P. J. Reddy : 1  ',]
+
+A Parandaman : 0
+['Kinetics of the thermal decomposition of tetramethylsilane behind the reflected shock waves between 1058 and 1194 K']
+[' B. Rajakumar : 1  ',]
+
+Mohamad Akbar Ali : 0
+['Computational study on OH radical reaction with CHF2CHFCHF2(HFCâ€\x90245ea) between 200 and 400 K', 'Kinetic parameters of abstraction reactions of OH radical with ethylene, fluoroethylene, cis- and trans-1,2-difluoroethylene and 1,1-difluoroethylene, in the temperature range of 200â€“400 K: Gaussian-3/B3LYP theory', 'Kinetics of OH radical reaction with CF3CHFCH2F (HFC-245eb) between 200 and 400K: G3MP2, G3B3 and transition state theory calculations', 'Thermodynamic and kinetic studies of hydroxyl radical reaction with bromine oxide using density functional theory']
+[' B. Rajakumar : 4  ',' B. Upendra : 1  ',]
+
+Manas Ranjan Dash : 0
+['Experimental and computational investigation on the gas phase reaction of p-cymene with Cl atoms.', 'Abstraction kinetics of H-atom by OH radical from pinonaldehyde (C10H16O2): ab initio and transition-state theory calculations.', 'Theoretical investigations on the kinetics of p-cymene + OH reaction']
+[' B. Rajakumar : 3  ',' G. Srinivasulu : 1  ',]
+
+G. Srinivasulu : 0
+['Experimental and computational investigation on the gas phase reaction of p-cymene with Cl atoms.']
+[' B. Rajakumar : 1  ',' Manas Ranjan Dash : 1  ',]
+
+M Balaganesh : 0
+['Mechanism, kinetics and atmospheric fate of CF3CHCH2, CF3CFCH2, and CF3CFCF2 by its reaction with OH-radicals: CVT/SCT/ISPE and hybrid meta-DFT methods']
+[' B. Rajakumar : 1  ',]
+
+B. Upendra : 0
+['Kinetic parameters of abstraction reactions of OH radical with ethylene, fluoroethylene, cis- and trans-1,2-difluoroethylene and 1,1-difluoroethylene, in the temperature range of 200â€“400 K: Gaussian-3/B3LYP theory']
+[' B. Rajakumar : 1  ',' Mohamad Akbar Ali : 1  ',]
+
+Sudip Mandal : 0
+['Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach']
+[' B. Rajakumar : 1  ',' Suman Kushwaha : 1  ',' Ramesh Mukkamala : 1  ',' Vijaya K. Siripina : 1  ',' Indrapal Singh Aidhen : 1  ',' Ramanujam Kothandaraman : 1  ',]
+
+Suman Kushwaha : 0
+['Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach']
+[' B. Rajakumar : 1  ',' Sudip Mandal : 1  ',' Ramesh Mukkamala : 1  ',' Vijaya K. Siripina : 1  ',' Indrapal Singh Aidhen : 1  ',' Ramanujam Kothandaraman : 1  ',]
+
+Ramesh Mukkamala : 0
+['Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach']
+[' B. Rajakumar : 1  ',' Sudip Mandal : 1  ',' Suman Kushwaha : 1  ',' Vijaya K. Siripina : 1  ',' Indrapal Singh Aidhen : 1  ',' Ramanujam Kothandaraman : 1  ',]
+
+Vijaya K. Siripina : 0
+['Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach']
+[' B. Rajakumar : 1  ',' Sudip Mandal : 1  ',' Suman Kushwaha : 1  ',' Ramesh Mukkamala : 1  ',' Indrapal Singh Aidhen : 1  ',' Ramanujam Kothandaraman : 1  ',]
+
+Indrapal Singh Aidhen : 0
+['Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach']
+[' B. Rajakumar : 1  ',' Sudip Mandal : 1  ',' Suman Kushwaha : 1  ',' Ramesh Mukkamala : 1  ',' Vijaya K. Siripina : 1  ',' Ramanujam Kothandaraman : 1  ',]
+
+Ramanujam Kothandaraman : 0
+['Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach']
+[' B. Rajakumar : 1  ',' Sudip Mandal : 1  ',' Suman Kushwaha : 1  ',' Ramesh Mukkamala : 1  ',' Vijaya K. Siripina : 1  ',' Indrapal Singh Aidhen : 1  ',]
+
+C. Ramanjaneyulu : 0
+['Kinetic parameters for the reaction of OH radical with cis-CHFCHCHF2, trans-CHFCHCHF2, CF2CHCHF2 and CF2CCHF: Hybrid meta DFT and CVT/SCT/ISPE calculations']
+[' B. Rajakumar : 1  ',]
+
+Revathy Kaipara : 0
+['Temperature-Dependent Kinetics of the Reaction of a Criegee Intermediate with Propionaldehyde: A Computational Investigation']
+[' B. Rajakumar : 1  ',]
+
+Ramya Cheramangalath Balan : 0
+['Photo Oxidation Reaction Kinetics of Ethyl Propionate with Cl Atom and Formation of Propionic Acid']
+[' B. Rajakumar : 1  ',]
+
+V. P. Arunachalam : 0
+['Workflow balancing in parallel machines through genetic algorithm.']
+[' S. Rajakumar : 1  ',' V. Selladurai : 1  ',]
+
+V. Selladurai : 0
+['Workflow balancing in parallel machines through genetic algorithm.', 'Workflow balancing in parallel machine scheduling with precedence constraints using genetic algorithm']
+[' S. Rajakumar : 2  ',' V. P. Arunachalam : 1  ',' V.P. Arunachalam : 1  ',]
+
+V.P. Arunachalam : 0
+['Workflow balancing in parallel machine scheduling with precedence constraints using genetic algorithm']
+[' S. Rajakumar : 1  ',' V. Selladurai : 1  ',]
+
+Arun Negemiya A : 0
+['High temperature diffusion bonding of austenitic stainless steel to titanium dissimilar joints']
+[' Rajakumar S : 1  ',' Balasubramanian : 1  ',]
+
+Balasubramanian : 0
+['High temperature diffusion bonding of austenitic stainless steel to titanium dissimilar joints']
+[' Rajakumar S : 1  ',' Arun Negemiya A : 1  ',]
+
+AjuB Y : 0
+['EVALUATION OF PROXIMATE PRINCIPLES AND ANTIOXIDANT ACTIVITY OF MORINGA OLEIFERA LAM. (DRUM STICK TREE) IN KERALA.']
+[' Rajalakshmi R : 1  ',' Mini S : 1  ',]
+
+Mini S : 0
+['EVALUATION OF PROXIMATE PRINCIPLES AND ANTIOXIDANT ACTIVITY OF MORINGA OLEIFERA LAM. (DRUM STICK TREE) IN KERALA.']
+[' Rajalakshmi R : 1  ',' AjuB Y : 1  ',]
+
+Ashok Julaganti : 0
+['Permanent Deformation Characteristics of Warm Asphalt Binders under Reduced Aging Conditions', 'Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives', 'Rheology of modified binders under varying doses of WMA additiveâ€“Sasobit', 'Use of industrial wastes as filler in open-graded friction courses', 'Moisture susceptibility of WMA mixes with modified bituminous binders']
+[' Rajan Choudhary : 5  ',' Abhinay Kumar : 5  ',' Prithvi Singh Kandhal : 1  ',' Om Prakash Behera : 1  ',' Abhishek Singh : 1  ',' Rajesh Kumar : 1  ',' Dibyatonu Chattopadhyay : 1  ',]
+
+Abhinay Kumar : 0
+['Permanent Deformation Characteristics of Warm Asphalt Binders under Reduced Aging Conditions', 'Properties of Waste Polyethylene Terephthalate (PET) Modified Asphalt Mixes: Dependence on PET Size, PET Content, and Mixing Process', 'Application of WMA Technology to Bituminous Base Course Mixes', 'Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives', 'Rheology of modified binders under varying doses of WMA additiveâ€“Sasobit', 'Use of industrial wastes as filler in open-graded friction courses', 'Moisture susceptibility of WMA mixes with modified bituminous binders']
+[' Rajan Choudhary : 7  ',' Ashok Julaganti : 5  ',' Kishori Murkute : 1  ',' Asho Julaganti : 1  ',' Dipak Arjun Ugale : 1  ',' Prithvi Singh Kandhal : 1  ',' Om Prakash Behera : 1  ',' Abhishek Singh : 1  ',' Rajesh Kumar : 1  ',' Dibyatonu Chattopadhyay : 1  ',]
+
+Madhu Lisha Pattanaik : 0
+['Clogging evaluation of open graded friction course mixes with EAF steel slag and modified binders', 'Laboratory Evaluation of Mix Design Parameters of Open-Graded Friction Course Mixes with Electric Arc Furnace Steel Slag', 'Evaluation of Frictional Pavement Resistance as a Function of Aggregate Physical Properties']
+[' Rajan Choudhary : 3  ',' Bimlesh Kumar : 3  ',]
+
+Bimlesh Kumar : 0
+['Clogging evaluation of open graded friction course mixes with EAF steel slag and modified binders', 'Laboratory Evaluation of Mix Design Parameters of Open-Graded Friction Course Mixes with Electric Arc Furnace Steel Slag', 'Evaluation of Frictional Pavement Resistance as a Function of Aggregate Physical Properties']
+[' Rajan Choudhary : 3  ',' Madhu Lisha Pattanaik : 3  ',]
+
+Kishori Murkute : 0
+['Properties of Waste Polyethylene Terephthalate (PET) Modified Asphalt Mixes: Dependence on PET Size, PET Content, and Mixing Process']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',]
+
+Sanjay Deori : 0
+['Calibration of HDM-4 models for Indian conditions of flexible pavement having modified bitumen in wearing course']
+[' Rajan Choudhary : 1  ',' Devesh Tiwari : 1  ',' S. Gangopadhyay : 1  ',]
+
+Devesh Tiwari : 0
+['Calibration of HDM-4 models for Indian conditions of flexible pavement having modified bitumen in wearing course']
+[' Rajan Choudhary : 1  ',' Sanjay Deori : 1  ',' S. Gangopadhyay : 1  ',]
+
+S. Gangopadhyay : 0
+['Calibration of HDM-4 models for Indian conditions of flexible pavement having modified bitumen in wearing course']
+[' Rajan Choudhary : 1  ',' Sanjay Deori : 1  ',' Devesh Tiwari : 1  ',]
+
+Asho Julaganti : 0
+['Application of WMA Technology to Bituminous Base Course Mixes']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',' Dipak Arjun Ugale : 1  ',]
+
+Dipak Arjun Ugale : 0
+['Application of WMA Technology to Bituminous Base Course Mixes']
+[' Rajan Choudhary : 1  ',' Asho Julaganti : 1  ',' Abhinay Kumar : 1  ',]
+
+Prithvi Singh Kandhal : 0
+['Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',' Ashok Julaganti : 1  ',' Om Prakash Behera : 1  ',' Abhishek Singh : 1  ',' Rajesh Kumar : 1  ',]
+
+Om Prakash Behera : 0
+['Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',' Prithvi Singh Kandhal : 1  ',' Ashok Julaganti : 1  ',' Abhishek Singh : 1  ',' Rajesh Kumar : 1  ',]
+
+Abhishek Singh : 0
+['Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',' Prithvi Singh Kandhal : 1  ',' Ashok Julaganti : 1  ',' Om Prakash Behera : 1  ',' Rajesh Kumar : 1  ',]
+
+Rajesh Kumar : 0
+['Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',' Prithvi Singh Kandhal : 1  ',' Ashok Julaganti : 1  ',' Om Prakash Behera : 1  ',' Abhishek Singh : 1  ',]
+
+Dibyatonu Chattopadhyay : 0
+['Use of industrial wastes as filler in open-graded friction courses']
+[' Rajan Choudhary : 1  ',' Abhinay Kumar : 1  ',' Ashok Julaganti : 1  ',]
+
+Vishal Sharma : 0
+['Characterization of Fly Ash Bituminous Concrete Mixes']
+[' Rajan Choudhary : 1  ',' Satish Chandra : 1  ',]
+
+Satish Chandra : 0
+['Characterization of Fly Ash Bituminous Concrete Mixes', 'Performance Characteristics of Bituminous Concrete with Industrial Wastes as Filler']
+[' Rajan Choudhary : 2  ',' Vishal Sharma : 1  ',]
+
+Prasanth Manohar : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies']
+[' Rajan Choudhary : 1  ',' Jana Vecstaudza : 1  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Ramesh Nachimuthu : 1  ',' Janis Locs : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+Jana Vecstaudza : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies', 'In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method']
+[' Rajan Choudhary : 2  ',' Prasanth Manohar : 1  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Ramesh Nachimuthu : 1  ',' Janis Locs : 2  ',' Sasikumar Swamiappan : 2  ',' G. Krishnamurithy : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Malliga Raman Murali : 1  ',' Tunku Kamarul : 1  ',]
+
+Maria Josefa YÃ¡Ã±ez-GascÃ³n : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies']
+[' Rajan Choudhary : 1  ',' Prasanth Manohar : 1  ',' Jana Vecstaudza : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Ramesh Nachimuthu : 1  ',' Janis Locs : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+Horacio PÃ©rez SÃ¡nchez : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies']
+[' Rajan Choudhary : 1  ',' Prasanth Manohar : 1  ',' Jana Vecstaudza : 1  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Ramesh Nachimuthu : 1  ',' Janis Locs : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+Ramesh Nachimuthu : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies']
+[' Rajan Choudhary : 1  ',' Prasanth Manohar : 1  ',' Jana Vecstaudza : 1  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Janis Locs : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+Janis Locs : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies', 'In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method']
+[' Rajan Choudhary : 2  ',' Prasanth Manohar : 1  ',' Jana Vecstaudza : 2  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Ramesh Nachimuthu : 1  ',' Sasikumar Swamiappan : 2  ',' G. Krishnamurithy : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Malliga Raman Murali : 1  ',' Tunku Kamarul : 1  ',]
+
+Sasikumar Swamiappan : 0
+['Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies', 'In vitro bioactivity studies of larnite and larnite/chitin composites prepared from biowaste for biomedical applications', 'Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications', 'In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method', 'Bioactivity studies of calcium magnesium silicate prepared from eggshell waste by sol-gel combustion synthesis']
+[' Rajan Choudhary : 5  ',' Prasanth Manohar : 1  ',' Jana Vecstaudza : 2  ',' Maria Josefa YÃ¡Ã±ez-GascÃ³n : 1  ',' Horacio PÃ©rez SÃ¡nchez : 1  ',' Ramesh Nachimuthu : 1  ',' Janis Locs : 2  ',' Senthil Kumar Venkatraman : 2  ',' Anjali Rana : 1  ',' Ankita Chatterjee : 1  ',' Sivasankar Koppala : 2  ',' Jayanthi Abraham : 1  ',' G. Krishnamurithy : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Malliga Raman Murali : 1  ',' Tunku Kamarul : 1  ',]
+
+Senthil Kumar Venkatraman : 0
+['In vitro bioactivity studies of larnite and larnite/chitin composites prepared from biowaste for biomedical applications', 'Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications', 'A Fundamental Approach Toward Polymers and Polymer Composites: Current Trends for Biomedical Applications']
+[' Rajan Choudhary : 3  ',' Anjali Rana : 1  ',' Sasikumar Swamiappan : 2  ',' Ankita Chatterjee : 1  ',' Sivasankar Koppala : 1  ',' Jayanthi Abraham : 1  ',' Mohit Saraswat : 1  ',]
+
+Anjali Rana : 0
+['In vitro bioactivity studies of larnite and larnite/chitin composites prepared from biowaste for biomedical applications']
+[' Rajan Choudhary : 1  ',' Senthil Kumar Venkatraman : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+Sivasankar Koppala : 0
+['In-vitro bioactivity of nanocrystalline and bulk larnite/chitosan composites: comparative study', 'Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications', 'Bioactivity studies of calcium magnesium silicate prepared from eggshell waste by sol-gel combustion synthesis']
+[' Rajan Choudhary : 3  ',' Aviral Srivastava : 1  ',' Swamiappan Sasikumar : 1  ',' Ankita Chatterjee : 1  ',' Senthil Kumar Venkatraman : 1  ',' Jayanthi Abraham : 1  ',' Sasikumar Swamiappan : 2  ',]
+
+Aviral Srivastava : 0
+['In-vitro bioactivity of nanocrystalline and bulk larnite/chitosan composites: comparative study']
+[' Rajan Choudhary : 1  ',' Sivasankar Koppala : 1  ',' Swamiappan Sasikumar : 1  ',]
+
+Swamiappan Sasikumar : 0
+['In-vitro bioactivity of nanocrystalline and bulk larnite/chitosan composites: comparative study']
+[' Rajan Choudhary : 1  ',' Sivasankar Koppala : 1  ',' Aviral Srivastava : 1  ',]
+
+Ankita Chatterjee : 0
+['Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications']
+[' Rajan Choudhary : 1  ',' Senthil Kumar Venkatraman : 1  ',' Sivasankar Koppala : 1  ',' Jayanthi Abraham : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+Jayanthi Abraham : 0
+['Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications']
+[' Rajan Choudhary : 1  ',' Ankita Chatterjee : 1  ',' Senthil Kumar Venkatraman : 1  ',' Sivasankar Koppala : 1  ',' Sasikumar Swamiappan : 1  ',]
+
+G. Krishnamurithy : 0
+['In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method']
+[' Rajan Choudhary : 1  ',' Jana Vecstaudza : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Malliga Raman Murali : 1  ',' Tunku Kamarul : 1  ',' Sasikumar Swamiappan : 1  ',' Janis Locs : 1  ',]
+
+Hanumantha Rao Balaji Raghavendran : 0
+['In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method']
+[' Rajan Choudhary : 1  ',' Jana Vecstaudza : 1  ',' G. Krishnamurithy : 1  ',' Malliga Raman Murali : 1  ',' Tunku Kamarul : 1  ',' Sasikumar Swamiappan : 1  ',' Janis Locs : 1  ',]
+
+Malliga Raman Murali : 0
+['In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method']
+[' Rajan Choudhary : 1  ',' Jana Vecstaudza : 1  ',' G. Krishnamurithy : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Tunku Kamarul : 1  ',' Sasikumar Swamiappan : 1  ',' Janis Locs : 1  ',]
+
+Tunku Kamarul : 0
+['In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using solâ€“gel combustion method']
+[' Rajan Choudhary : 1  ',' Jana Vecstaudza : 1  ',' G. Krishnamurithy : 1  ',' Hanumantha Rao Balaji Raghavendran : 1  ',' Malliga Raman Murali : 1  ',' Sasikumar Swamiappan : 1  ',' Janis Locs : 1  ',]
+
+Mohit Saraswat : 0
+['A Fundamental Approach Toward Polymers and Polymer Composites: Current Trends for Biomedical Applications']
+[' Rajan Choudhary : 1  ',' Senthil Kumar Venkatraman : 1  ',]
+
+Prakriti Bista : 0
+['Crop Diversification Improves pH in Acidic Soils', 'Effects of tillage system on greenhouse gas fluxes and soil mineral nitrogen in wheat (Triticum aestivum, L.)-fallow during drought', 'U.S. West: One-time summer tillage does not negate long-term benefits of no-till', 'Greenhouse Gas Fluxes and Soil Carbon and Nitrogen Following Single Summer Tillage Event', 'Soil pH, Soil Organic Matter, and Crop Yields in Winter Wheatâ€“Summer Fallow Systems']
+[' Rajan Ghimire : 5  ',' Urszula Norton : 3  ',' Jay B. Norton : 3  ',' Stephen Machado : 1  ',]
+
+Binod Ghimire : 0
+['Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains', 'Cover Crop Residue Amount and Quality Effects on Soil Organic Carbon Mineralization']
+[' Rajan Ghimire : 2  ',' Abdel O. Mesbah : 1  ',' Omololu John Idowu : 1  ',' Michael K. Oâ€™Neill : 1  ',' Sangamesh V. Angadi : 1  ',' Manoj K. Shukla : 1  ',' Dawn VanLeeuwen : 1  ',' Abdel Mesbah : 1  ',]
+
+Abdel O. Mesbah : 0
+['Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Omololu John Idowu : 1  ',' Michael K. Oâ€™Neill : 1  ',' Sangamesh V. Angadi : 1  ',' Manoj K. Shukla : 1  ',]
+
+Omololu John Idowu : 0
+['Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Abdel O. Mesbah : 1  ',' Michael K. Oâ€™Neill : 1  ',' Sangamesh V. Angadi : 1  ',' Manoj K. Shukla : 1  ',]
+
+Michael K. Oâ€™Neill : 0
+['Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Abdel O. Mesbah : 1  ',' Omololu John Idowu : 1  ',' Sangamesh V. Angadi : 1  ',' Manoj K. Shukla : 1  ',]
+
+Sangamesh V. Angadi : 0
+['Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Abdel O. Mesbah : 1  ',' Omololu John Idowu : 1  ',' Michael K. Oâ€™Neill : 1  ',' Manoj K. Shukla : 1  ',]
+
+Manoj K. Shukla : 0
+['Current status, opportunities, and challenges of cover cropping for sustainable dryland farming in the Southern Great Plains']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Abdel O. Mesbah : 1  ',' Omololu John Idowu : 1  ',' Michael K. Oâ€™Neill : 1  ',' Sangamesh V. Angadi : 1  ',]
+
+Stephen Machado : 0
+['Soil acidity limits wheat yield in dryland regions of the Inland Pacific Northwest', 'Soil pH, Soil Organic Matter, and Crop Yields in Winter Wheatâ€“Summer Fallow Systems']
+[' Rajan Ghimire : 2  ',' Prakriti Bista : 1  ',]
+
+Dawn VanLeeuwen : 0
+['Cover Crop Residue Amount and Quality Effects on Soil Organic Carbon Mineralization']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Abdel Mesbah : 1  ',]
+
+Abdel Mesbah : 0
+['Cover Crop Residue Amount and Quality Effects on Soil Organic Carbon Mineralization']
+[' Rajan Ghimire : 1  ',' Binod Ghimire : 1  ',' Dawn VanLeeuwen : 1  ',]
+
+Nabin Rawal : 0
+['Crop Yield and Soil Fertility Status of Long-Term Rice-Rice-Wheat Cropping Systems']
+[' Rajan Ghimire : 1  ',' Devraj Chalise : 1  ',]
+
+Devraj Chalise : 0
+['Crop Yield and Soil Fertility Status of Long-Term Rice-Rice-Wheat Cropping Systems']
+[' Rajan Ghimire : 1  ',' Nabin Rawal : 1  ',]
+
+Urszula Norton : 0
+['Effects of tillage system on greenhouse gas fluxes and soil mineral nitrogen in wheat (Triticum aestivum, L.)-fallow during drought', 'U.S. West: One-time summer tillage does not negate long-term benefits of no-till', 'Greenhouse Gas Fluxes and Soil Carbon and Nitrogen Following Single Summer Tillage Event']
+[' Rajan Ghimire : 3  ',' Prakriti Bista : 3  ',' Jay B. Norton : 3  ',]
+
+Jay B. Norton : 0
+['Effects of tillage system on greenhouse gas fluxes and soil mineral nitrogen in wheat (Triticum aestivum, L.)-fallow during drought', 'Alfalfa-grass biomass, soil organic carbon, and total nitrogen under different management approaches in an irrigated agroecosystem', 'U.S. West: One-time summer tillage does not negate long-term benefits of no-till', 'Greenhouse Gas Fluxes and Soil Carbon and Nitrogen Following Single Summer Tillage Event']
+[' Rajan Ghimire : 4  ',' Prakriti Bista : 3  ',' Urszula Norton : 3  ',' Elise Pendall : 1  ',]
+
+Benjamin D. Duval : 0
+['Water and nitrogen management effects on semiarid sorghum production and soil trace gas flux under future climate']
+[' Rajan Ghimire : 1  ',' Melannie D. Hartman : 1  ',' Mark A. Marsalis : 1  ',]
+
+Melannie D. Hartman : 0
+['Water and nitrogen management effects on semiarid sorghum production and soil trace gas flux under future climate']
+[' Rajan Ghimire : 1  ',' Benjamin D. Duval : 1  ',' Mark A. Marsalis : 1  ',]
+
+Mark A. Marsalis : 0
+['Water and nitrogen management effects on semiarid sorghum production and soil trace gas flux under future climate']
+[' Rajan Ghimire : 1  ',' Benjamin D. Duval : 1  ',' Melannie D. Hartman : 1  ',]
+
+Elise Pendall : 0
+['Alfalfa-grass biomass, soil organic carbon, and total nitrogen under different management approaches in an irrigated agroecosystem']
+[' Rajan Ghimire : 1  ',' Jay B. Norton : 1  ',]
+
+Bed P. Khatiwada : 0
+['Increasing Crop Water Productivity through Local Crops and Technologies: A Case from the Ethnic Chepang Community of Nepal']
+[' Rajan Ghimire : 1  ',' Rabindra Adhikari : 1  ',' Surendra Osti : 1  ',]
+
+Rabindra Adhikari : 0
+['Increasing Crop Water Productivity through Local Crops and Technologies: A Case from the Ethnic Chepang Community of Nepal']
+[' Rajan Ghimire : 1  ',' Bed P. Khatiwada : 1  ',' Surendra Osti : 1  ',]
+
+Surendra Osti : 0
+['Increasing Crop Water Productivity through Local Crops and Technologies: A Case from the Ethnic Chepang Community of Nepal']
+[' Rajan Ghimire : 1  ',' Bed P. Khatiwada : 1  ',' Rabindra Adhikari : 1  ',]
+
+Rajendra Kumar Chaudhary : 0
+['Perinatal Outcome of Vaginal Breech Delivery versus Caesarean Breech Delivery in a Tertiary Care Center']
+[' Rajan Ghimire : 1  ',' Deepak Raj Kafle : 1  ',]
+
+Deepak Raj Kafle : 0
+['Perinatal Outcome of Vaginal Breech Delivery versus Caesarean Breech Delivery in a Tertiary Care Center']
+[' Rajan Ghimire : 1  ',' Rajendra Kumar Chaudhary : 1  ',]
+
+Mark L. Palmeri : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 4  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 4  ',' Alison F. Brown : 1  ',' John Madden : 3  ',' Kathryn R. Nightingale : 3  ',' Kirema Garcia-Reyes : 2  ',' Christopher Kauffman : 2  ',' Evan Kulbacki : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Christopher R. Kauffman : 1  ',' John F. Madden : 1  ',' Andrew B. Rosenkrantz : 1  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Tyler J. Glass : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 2  ',' Alison F. Brown : 1  ',' John Madden : 2  ',' Kathryn R. Nightingale : 2  ',' Kirema Garcia-Reyes : 1  ',' Christopher Kauffman : 1  ',' Evan Kulbacki : 1  ',' Samantha L. Lipman : 1  ',' Ned C. Rouze : 1  ',]
+
+Zachary A. Miller : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Tyler J. Glass : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 2  ',' Alison F. Brown : 1  ',' John Madden : 2  ',' Kathryn R. Nightingale : 2  ',' Kirema Garcia-Reyes : 1  ',' Christopher Kauffman : 1  ',' Evan Kulbacki : 1  ',' Samantha L. Lipman : 1  ',' Ned C. Rouze : 1  ',]
+
+Stephen J. Rosenzweig : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 2  ',' Alison F. Brown : 1  ',' John Madden : 2  ',' Kathryn R. Nightingale : 2  ',' Kirema Garcia-Reyes : 1  ',' Christopher Kauffman : 1  ',' Evan Kulbacki : 1  ',' Samantha L. Lipman : 1  ',' Ned C. Rouze : 1  ',]
+
+Andrew Buck : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Thomas J. Polascik : 2  ',' Alison F. Brown : 1  ',' John Madden : 2  ',' Kathryn R. Nightingale : 2  ',' Kirema Garcia-Reyes : 1  ',' Christopher Kauffman : 1  ',' Evan Kulbacki : 1  ',' Samantha L. Lipman : 1  ',' Ned C. Rouze : 1  ',]
+
+Thomas J. Polascik : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer', 'Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 6  ',' Mark L. Palmeri : 4  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Alison F. Brown : 1  ',' John Madden : 3  ',' Kathryn R. Nightingale : 3  ',' Ariel A. Schulman : 1  ',' Christina Sze : 1  ',' Efrat Tsivian : 1  ',' Judd W. Moul : 1  ',' Kirema Garcia-Reyes : 3  ',' Christopher Kauffman : 2  ',' Evan Kulbacki : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Christopher R. Kauffman : 1  ',' John F. Madden : 2  ',' Andrew B. Rosenkrantz : 1  ',' Kamil F. Faridi : 1  ',' Abhay A. Singh : 1  ',' NiccolÃ² M. Passoni : 1  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Alison F. Brown : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.']
+[' Rajan T. Gupta : 1  ',' Mark L. Palmeri : 1  ',' Tyler J. Glass : 1  ',' Zachary A. Miller : 1  ',' Stephen J. Rosenzweig : 1  ',' Andrew Buck : 1  ',' Thomas J. Polascik : 1  ',' John Madden : 1  ',' Kathryn R. Nightingale : 1  ',]
+
+John Madden : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 3  ',' Mark L. Palmeri : 3  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 3  ',' Alison F. Brown : 1  ',' Kathryn R. Nightingale : 3  ',' Kirema Garcia-Reyes : 1  ',' Christopher Kauffman : 2  ',' Evan Kulbacki : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Kathryn R. Nightingale : 0
+['Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.', 'B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 3  ',' Mark L. Palmeri : 3  ',' Tyler J. Glass : 2  ',' Zachary A. Miller : 2  ',' Stephen J. Rosenzweig : 2  ',' Andrew Buck : 2  ',' Thomas J. Polascik : 3  ',' Alison F. Brown : 1  ',' John Madden : 3  ',' Kirema Garcia-Reyes : 1  ',' Christopher Kauffman : 2  ',' Evan Kulbacki : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Mustafa R. Bashir : 0
+['MDCT Evaluation of the Pancreas: Nuts and Bolts', 'Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.', 'Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values', 'Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:', 'Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 6  ',' Brian M. Dale : 3  ',' Jeffrey J. Horvath : 1  ',' Daniel T. Boll : 2  ',' Elmar M. Merkle : 4  ',' Steven R. Breault : 1  ',' Tobias Heye : 1  ',' Caecilia S. Reiner : 1  ',' Kamil F. Faridi : 1  ',' Brian C. Allen : 2  ',' Tobias J. Heye : 1  ',' Matthew S. Davenport : 1  ',' Tracy A. Jaffe : 2  ',' Lisa M. Ho : 1  ',' Rekha Mody : 1  ',' Amy Neville : 1  ',' Ramin Javan : 1  ',' Danielle Seaman : 1  ',' Charles Y. Kim : 1  ',]
+
+Lauren Christine Harshman : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Maneka Puligandla : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Naomi B. Haas : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Mohamad Allaf : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Charles G. Drake : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+David F. McDermott : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Sabina Signoretti : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+David Cella : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Rupal Satish Bhatt : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Eliezer Mendel Van Allen : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Toni K. Choueiri : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Primo Lara : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Anil Kapoor : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Daniel Yick Chin Heng : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Brian M. Shuch : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Michael A.S. Jewett : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Daniel J. George : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' M. Dror Michaelson : 1  ',' Michael Anthony Carducci : 1  ',]
+
+M. Dror Michaelson : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' Michael Anthony Carducci : 1  ',]
+
+Michael Anthony Carducci : 0
+['A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).']
+[' Rajan T. Gupta : 1  ',' Lauren Christine Harshman : 1  ',' Maneka Puligandla : 1  ',' Naomi B. Haas : 1  ',' Mohamad Allaf : 1  ',' Charles G. Drake : 1  ',' David F. McDermott : 1  ',' Sabina Signoretti : 1  ',' David Cella : 1  ',' Rupal Satish Bhatt : 1  ',' Eliezer Mendel Van Allen : 1  ',' Toni K. Choueiri : 1  ',' Primo Lara : 1  ',' Anil Kapoor : 1  ',' Daniel Yick Chin Heng : 1  ',' Brian M. Shuch : 1  ',' Michael A.S. Jewett : 1  ',' Daniel J. George : 1  ',' M. Dror Michaelson : 1  ',]
+
+Brian M. Dale : 0
+['Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.', 'Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values', 'Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:']
+[' Rajan T. Gupta : 3  ',' Mustafa R. Bashir : 3  ',' Jeffrey J. Horvath : 1  ',' Daniel T. Boll : 1  ',' Elmar M. Merkle : 3  ',' Steven R. Breault : 1  ',' Tobias Heye : 1  ',' Caecilia S. Reiner : 1  ',' Kamil F. Faridi : 1  ',' Brian C. Allen : 1  ',' Tobias J. Heye : 1  ',]
+
+Jeffrey J. Horvath : 0
+['Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.']
+[' Rajan T. Gupta : 1  ',' Mustafa R. Bashir : 1  ',' Brian M. Dale : 1  ',' Daniel T. Boll : 1  ',' Elmar M. Merkle : 1  ',]
+
+Daniel T. Boll : 0
+['Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.', 'Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?', 'Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?']
+[' Rajan T. Gupta : 4  ',' Mustafa R. Bashir : 2  ',' Brian M. Dale : 1  ',' Jeffrey J. Horvath : 1  ',' Elmar M. Merkle : 3  ',' Pranay Krishnan : 1  ',' Christopher M. Brady : 1  ',' Daniela B. Husarik : 1  ',' Matthew S. Davenport : 1  ',' Brian C. Allen : 1  ',' Tracy A. Jaffe : 1  ',' Lisa M. Ho : 2  ',' Courtney A. Coursey : 1  ',' Rendon C. Nelson : 1  ',' Erik K. Paulson : 1  ',' Amy M. Neville : 1  ',' Daniele Marin : 1  ',' Sebastian T. Schindera : 1  ',]
+
+Elmar M. Merkle : 0
+['Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.', 'Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values', 'Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?', 'Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:', 'Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?', 'Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium', 'Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?']
+[' Rajan T. Gupta : 7  ',' Mustafa R. Bashir : 4  ',' Brian M. Dale : 3  ',' Jeffrey J. Horvath : 1  ',' Daniel T. Boll : 3  ',' Steven R. Breault : 1  ',' Tobias Heye : 1  ',' Caecilia S. Reiner : 1  ',' Kamil F. Faridi : 1  ',' Pranay Krishnan : 1  ',' Christopher M. Brady : 2  ',' Daniela B. Husarik : 1  ',' Brian C. Allen : 2  ',' Tobias J. Heye : 1  ',' Kristina I. Ringe : 1  ',' Christopher M. Massey : 1  ',' Andreas Hahn : 1  ',' Michael Galanski : 1  ',' Joachim Lotz : 1  ',' Christine M. Iseman : 1  ',' John R. Leyendecker : 1  ',' Inna Shyknevsky : 1  ',' Bachir Taouli : 1  ',' Matthew S. Davenport : 1  ',' Tracy A. Jaffe : 1  ',' Lisa M. Ho : 1  ',]
+
+Avinash R. Kambadakone : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Alice Fung : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Thomas A. Hope : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Kathryn J. Fowler : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Andrej Lyshchik : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Karthik Ganesan : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Vahid Yaghmai : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Alexander R. Guimaraes : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Dushyant V. Sahani : 2  ',' Frank H. Miller : 2  ',]
+
+Dushyant V. Sahani : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Frank H. Miller : 2  ',]
+
+Frank H. Miller : 0
+['Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.', 'LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound']
+[' Rajan T. Gupta : 2  ',' Avinash R. Kambadakone : 2  ',' Alice Fung : 2  ',' Thomas A. Hope : 2  ',' Kathryn J. Fowler : 2  ',' Andrej Lyshchik : 2  ',' Karthik Ganesan : 2  ',' Vahid Yaghmai : 2  ',' Alexander R. Guimaraes : 2  ',' Dushyant V. Sahani : 2  ',]
+
+Andrew S. Griffin : 0
+['Massive gas gangrene secondary to occult colon carcinoma.']
+[' Rajan T. Gupta : 1  ',' Matthew D. Crawford : 1  ',]
+
+Matthew D. Crawford : 0
+['Massive gas gangrene secondary to occult colon carcinoma.']
+[' Rajan T. Gupta : 1  ',' Andrew S. Griffin : 1  ',]
+
+Steven R. Breault : 0
+['Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values']
+[' Rajan T. Gupta : 1  ',' Tobias Heye : 1  ',' Mustafa R. Bashir : 1  ',' Brian M. Dale : 1  ',' Elmar M. Merkle : 1  ',' Caecilia S. Reiner : 1  ',' Kamil F. Faridi : 1  ',]
+
+Tobias Heye : 0
+['Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values']
+[' Rajan T. Gupta : 1  ',' Steven R. Breault : 1  ',' Mustafa R. Bashir : 1  ',' Brian M. Dale : 1  ',' Elmar M. Merkle : 1  ',' Caecilia S. Reiner : 1  ',' Kamil F. Faridi : 1  ',]
+
+Caecilia S. Reiner : 0
+['Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values']
+[' Rajan T. Gupta : 1  ',' Steven R. Breault : 1  ',' Tobias Heye : 1  ',' Mustafa R. Bashir : 1  ',' Brian M. Dale : 1  ',' Elmar M. Merkle : 1  ',' Kamil F. Faridi : 1  ',]
+
+Kamil F. Faridi : 0
+['Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values', 'Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.']
+[' Rajan T. Gupta : 2  ',' Steven R. Breault : 1  ',' Tobias Heye : 1  ',' Mustafa R. Bashir : 1  ',' Brian M. Dale : 1  ',' Elmar M. Merkle : 1  ',' Caecilia S. Reiner : 1  ',' Abhay A. Singh : 1  ',' NiccolÃ² M. Passoni : 1  ',' Kirema Garcia-Reyes : 1  ',' John F. Madden : 1  ',' Thomas J. Polascik : 1  ',]
+
+Pranay Krishnan : 0
+['Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?']
+[' Rajan T. Gupta : 1  ',' Daniel T. Boll : 1  ',' Christopher M. Brady : 1  ',' Daniela B. Husarik : 1  ',' Elmar M. Merkle : 1  ',]
+
+Christopher M. Brady : 0
+['Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?', 'Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?']
+[' Rajan T. Gupta : 2  ',' Pranay Krishnan : 1  ',' Daniel T. Boll : 1  ',' Daniela B. Husarik : 1  ',' Elmar M. Merkle : 2  ',' Kristina I. Ringe : 1  ',' Christopher M. Massey : 1  ',' Andreas Hahn : 1  ',' Michael Galanski : 1  ',' Joachim Lotz : 1  ',]
+
+Daniela B. Husarik : 0
+['Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?']
+[' Rajan T. Gupta : 1  ',' Pranay Krishnan : 1  ',' Daniel T. Boll : 1  ',' Christopher M. Brady : 1  ',' Elmar M. Merkle : 1  ',]
+
+Ariel A. Schulman : 0
+['The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer']
+[' Rajan T. Gupta : 1  ',' Christina Sze : 1  ',' Efrat Tsivian : 1  ',' Judd W. Moul : 1  ',' Thomas J. Polascik : 1  ',]
+
+Christina Sze : 0
+['The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer']
+[' Rajan T. Gupta : 1  ',' Ariel A. Schulman : 1  ',' Efrat Tsivian : 1  ',' Judd W. Moul : 1  ',' Thomas J. Polascik : 1  ',]
+
+Efrat Tsivian : 0
+['The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer']
+[' Rajan T. Gupta : 1  ',' Ariel A. Schulman : 1  ',' Christina Sze : 1  ',' Judd W. Moul : 1  ',' Thomas J. Polascik : 1  ',]
+
+Judd W. Moul : 0
+['The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer']
+[' Rajan T. Gupta : 1  ',' Ariel A. Schulman : 1  ',' Christina Sze : 1  ',' Efrat Tsivian : 1  ',' Thomas J. Polascik : 1  ',]
+
+Benjamin Spilseth : 0
+['How and why a generation of radiologists must be trained to accurately interpret prostate mpMRI.']
+[' Rajan T. Gupta : 1  ',' Adam T. Froemming : 1  ',]
+
+Adam T. Froemming : 0
+['How and why a generation of radiologists must be trained to accurately interpret prostate mpMRI.']
+[' Rajan T. Gupta : 1  ',' Benjamin Spilseth : 1  ',]
+
+Daniele Marin : 0
+['Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements', 'Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality']
+[' Rajan T. Gupta : 3  ',' Drew Davis : 1  ',' Kingshuk Roy Choudhury : 2  ',' Bhavik Patel : 1  ',' Achille Mileto : 2  ',' Rendon C. Nelson : 3  ',' Courtney A. Coursey : 1  ',' Daniel T. Boll : 1  ',' Erik K. Paulson : 1  ',' Lisa M. Ho : 2  ',' Amy M. Neville : 1  ',' Sebastian T. Schindera : 1  ',' Brian C. Allen : 1  ',]
+
+Drew Davis : 0
+['Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements']
+[' Rajan T. Gupta : 1  ',' Daniele Marin : 1  ',' Kingshuk Roy Choudhury : 1  ',' Bhavik Patel : 1  ',' Achille Mileto : 1  ',' Rendon C. Nelson : 1  ',]
+
+Kingshuk Roy Choudhury : 0
+['Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality']
+[' Rajan T. Gupta : 2  ',' Daniele Marin : 2  ',' Drew Davis : 1  ',' Bhavik Patel : 1  ',' Achille Mileto : 2  ',' Rendon C. Nelson : 2  ',' Lisa M. Ho : 1  ',' Brian C. Allen : 1  ',]
+
+Bhavik Patel : 0
+['Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements']
+[' Rajan T. Gupta : 1  ',' Daniele Marin : 1  ',' Drew Davis : 1  ',' Kingshuk Roy Choudhury : 1  ',' Achille Mileto : 1  ',' Rendon C. Nelson : 1  ',]
+
+Achille Mileto : 0
+['Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality']
+[' Rajan T. Gupta : 2  ',' Daniele Marin : 2  ',' Drew Davis : 1  ',' Kingshuk Roy Choudhury : 2  ',' Bhavik Patel : 1  ',' Rendon C. Nelson : 2  ',' Lisa M. Ho : 1  ',' Brian C. Allen : 1  ',]
+
+Rendon C. Nelson : 0
+['Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements', 'How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas', 'Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality']
+[' Rajan T. Gupta : 4  ',' Daniele Marin : 3  ',' Drew Davis : 1  ',' Kingshuk Roy Choudhury : 2  ',' Bhavik Patel : 1  ',' Achille Mileto : 2  ',' Bhavik N. Patel : 1  ',' Sabino Zani : 1  ',' R. Brooke Jeffrey : 1  ',' Erik K. Paulson : 2  ',' Courtney A. Coursey : 1  ',' Daniel T. Boll : 1  ',' Lisa M. Ho : 2  ',' Amy M. Neville : 1  ',' Sebastian T. Schindera : 1  ',' Brian C. Allen : 1  ',]
+
+Brian C. Allen : 0
+['Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:', 'Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality']
+[' Rajan T. Gupta : 3  ',' Mustafa R. Bashir : 2  ',' Brian M. Dale : 1  ',' Tobias J. Heye : 1  ',' Elmar M. Merkle : 2  ',' Matthew S. Davenport : 1  ',' Tracy A. Jaffe : 1  ',' Lisa M. Ho : 2  ',' Daniel T. Boll : 1  ',' Daniele Marin : 1  ',' Achille Mileto : 1  ',' Kingshuk Roy Choudhury : 1  ',' Rendon C. Nelson : 1  ',]
+
+Tobias J. Heye : 0
+['Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:']
+[' Rajan T. Gupta : 1  ',' Brian C. Allen : 1  ',' Mustafa R. Bashir : 1  ',' Brian M. Dale : 1  ',' Elmar M. Merkle : 1  ',]
+
+Matthew P. Lungren : 0
+['PET appearance of tuberculous empyema necessitans.']
+[' Rajan T. Gupta : 1  ',' Jared D. Christensen : 1  ',' R. Edward Coleman : 1  ',]
+
+Jared D. Christensen : 0
+['PET appearance of tuberculous empyema necessitans.']
+[' Rajan T. Gupta : 1  ',' Matthew P. Lungren : 1  ',' R. Edward Coleman : 1  ',]
+
+R. Edward Coleman : 0
+['PET appearance of tuberculous empyema necessitans.']
+[' Rajan T. Gupta : 1  ',' Matthew P. Lungren : 1  ',' Jared D. Christensen : 1  ',]
+
+Kirema Garcia-Reyes : 0
+['B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer', 'Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.']
+[' Rajan T. Gupta : 3  ',' Mark L. Palmeri : 2  ',' Zachary A. Miller : 1  ',' Tyler J. Glass : 1  ',' Stephen J. Rosenzweig : 1  ',' Christopher Kauffman : 1  ',' Thomas J. Polascik : 3  ',' Andrew Buck : 1  ',' Evan Kulbacki : 1  ',' John Madden : 1  ',' Samantha L. Lipman : 1  ',' Ned C. Rouze : 1  ',' Kathryn R. Nightingale : 1  ',' Christopher R. Kauffman : 1  ',' John F. Madden : 2  ',' Andrew B. Rosenkrantz : 1  ',' Kamil F. Faridi : 1  ',' Abhay A. Singh : 1  ',' NiccolÃ² M. Passoni : 1  ',]
+
+Christopher Kauffman : 0
+['B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Zachary A. Miller : 1  ',' Tyler J. Glass : 1  ',' Kirema Garcia-Reyes : 1  ',' Stephen J. Rosenzweig : 1  ',' Thomas J. Polascik : 2  ',' Andrew Buck : 1  ',' Evan Kulbacki : 2  ',' John Madden : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Kathryn R. Nightingale : 2  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Evan Kulbacki : 0
+['B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Zachary A. Miller : 1  ',' Tyler J. Glass : 1  ',' Kirema Garcia-Reyes : 1  ',' Stephen J. Rosenzweig : 1  ',' Christopher Kauffman : 2  ',' Thomas J. Polascik : 2  ',' Andrew Buck : 1  ',' John Madden : 2  ',' Samantha L. Lipman : 2  ',' Ned C. Rouze : 1  ',' Kathryn R. Nightingale : 2  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Samantha L. Lipman : 0
+['B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 2  ',' Mark L. Palmeri : 2  ',' Zachary A. Miller : 1  ',' Tyler J. Glass : 1  ',' Kirema Garcia-Reyes : 1  ',' Stephen J. Rosenzweig : 1  ',' Christopher Kauffman : 2  ',' Thomas J. Polascik : 2  ',' Andrew Buck : 1  ',' Evan Kulbacki : 2  ',' John Madden : 2  ',' Ned C. Rouze : 1  ',' Kathryn R. Nightingale : 2  ',' Christina M.L. Hsu : 1  ',' Matthew S. Davenport : 1  ',]
+
+Ned C. Rouze : 0
+['B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging']
+[' Rajan T. Gupta : 1  ',' Mark L. Palmeri : 1  ',' Zachary A. Miller : 1  ',' Tyler J. Glass : 1  ',' Kirema Garcia-Reyes : 1  ',' Stephen J. Rosenzweig : 1  ',' Christopher Kauffman : 1  ',' Thomas J. Polascik : 1  ',' Andrew Buck : 1  ',' Evan Kulbacki : 1  ',' John Madden : 1  ',' Samantha L. Lipman : 1  ',' Kathryn R. Nightingale : 1  ',]
+
+Christopher R. Kauffman : 0
+['Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer']
+[' Rajan T. Gupta : 1  ',' Kirema Garcia-Reyes : 1  ',' Mark L. Palmeri : 1  ',' John F. Madden : 1  ',' Thomas J. Polascik : 1  ',' Andrew B. Rosenkrantz : 1  ',]
+
+John F. Madden : 0
+['Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer', 'Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.']
+[' Rajan T. Gupta : 2  ',' Christopher R. Kauffman : 1  ',' Kirema Garcia-Reyes : 2  ',' Mark L. Palmeri : 1  ',' Thomas J. Polascik : 2  ',' Andrew B. Rosenkrantz : 1  ',' Kamil F. Faridi : 1  ',' Abhay A. Singh : 1  ',' NiccolÃ² M. Passoni : 1  ',]
+
+Andrew B. Rosenkrantz : 0
+['Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer']
+[' Rajan T. Gupta : 1  ',' Christopher R. Kauffman : 1  ',' Kirema Garcia-Reyes : 1  ',' Mark L. Palmeri : 1  ',' John F. Madden : 1  ',' Thomas J. Polascik : 1  ',]
+
+Kristina I. Ringe : 0
+['Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?']
+[' Rajan T. Gupta : 1  ',' Christopher M. Brady : 1  ',' Christopher M. Massey : 1  ',' Andreas Hahn : 1  ',' Michael Galanski : 1  ',' Elmar M. Merkle : 1  ',' Joachim Lotz : 1  ',]
+
+Christopher M. Massey : 0
+['Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?']
+[' Rajan T. Gupta : 1  ',' Kristina I. Ringe : 1  ',' Christopher M. Brady : 1  ',' Andreas Hahn : 1  ',' Michael Galanski : 1  ',' Elmar M. Merkle : 1  ',' Joachim Lotz : 1  ',]
+
+Andreas Hahn : 0
+['Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?']
+[' Rajan T. Gupta : 1  ',' Kristina I. Ringe : 1  ',' Christopher M. Brady : 1  ',' Christopher M. Massey : 1  ',' Michael Galanski : 1  ',' Elmar M. Merkle : 1  ',' Joachim Lotz : 1  ',]
+
+Michael Galanski : 0
+['Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?']
+[' Rajan T. Gupta : 1  ',' Kristina I. Ringe : 1  ',' Christopher M. Brady : 1  ',' Christopher M. Massey : 1  ',' Andreas Hahn : 1  ',' Elmar M. Merkle : 1  ',' Joachim Lotz : 1  ',]
+
+Joachim Lotz : 0
+['Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?']
+[' Rajan T. Gupta : 1  ',' Kristina I. Ringe : 1  ',' Christopher M. Brady : 1  ',' Christopher M. Massey : 1  ',' Andreas Hahn : 1  ',' Michael Galanski : 1  ',' Elmar M. Merkle : 1  ',]
+
+Bhavik N. Patel : 0
+['How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas']
+[' Rajan T. Gupta : 1  ',' Sabino Zani : 1  ',' R. Brooke Jeffrey : 1  ',' Erik K. Paulson : 1  ',' Rendon C. Nelson : 1  ',]
+
+Sabino Zani : 0
+['How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas']
+[' Rajan T. Gupta : 1  ',' Bhavik N. Patel : 1  ',' R. Brooke Jeffrey : 1  ',' Erik K. Paulson : 1  ',' Rendon C. Nelson : 1  ',]
+
+R. Brooke Jeffrey : 0
+['How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas']
+[' Rajan T. Gupta : 1  ',' Bhavik N. Patel : 1  ',' Sabino Zani : 1  ',' Erik K. Paulson : 1  ',' Rendon C. Nelson : 1  ',]
+
+Erik K. Paulson : 0
+['How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas', 'Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?']
+[' Rajan T. Gupta : 2  ',' Bhavik N. Patel : 1  ',' Sabino Zani : 1  ',' R. Brooke Jeffrey : 1  ',' Rendon C. Nelson : 2  ',' Courtney A. Coursey : 1  ',' Daniel T. Boll : 1  ',' Lisa M. Ho : 1  ',' Amy M. Neville : 1  ',' Daniele Marin : 1  ',' Sebastian T. Schindera : 1  ',]
+
+Christine M. Iseman : 0
+['Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium']
+[' Rajan T. Gupta : 1  ',' John R. Leyendecker : 1  ',' Inna Shyknevsky : 1  ',' Elmar M. Merkle : 1  ',' Bachir Taouli : 1  ',]
+
+John R. Leyendecker : 0
+['Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium']
+[' Rajan T. Gupta : 1  ',' Christine M. Iseman : 1  ',' Inna Shyknevsky : 1  ',' Elmar M. Merkle : 1  ',' Bachir Taouli : 1  ',]
+
+Inna Shyknevsky : 0
+['Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium']
+[' Rajan T. Gupta : 1  ',' Christine M. Iseman : 1  ',' John R. Leyendecker : 1  ',' Elmar M. Merkle : 1  ',' Bachir Taouli : 1  ',]
+
+Bachir Taouli : 0
+['Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium']
+[' Rajan T. Gupta : 1  ',' Christine M. Iseman : 1  ',' John R. Leyendecker : 1  ',' Inna Shyknevsky : 1  ',' Elmar M. Merkle : 1  ',]
+
+J. Bryan Sexton : 0
+['Practice and Quality Improvement: Successful Implementation of TeamSTEPPS Tools Into an Academic Interventional Ultrasound Practice']
+[' Rajan T. Gupta : 1  ',' Judy Milne : 1  ',' Donald P. Frush : 1  ',]
+
+Judy Milne : 0
+['Practice and Quality Improvement: Successful Implementation of TeamSTEPPS Tools Into an Academic Interventional Ultrasound Practice']
+[' Rajan T. Gupta : 1  ',' J. Bryan Sexton : 1  ',' Donald P. Frush : 1  ',]
+
+Donald P. Frush : 0
+['Practice and Quality Improvement: Successful Implementation of TeamSTEPPS Tools Into an Academic Interventional Ultrasound Practice']
+[' Rajan T. Gupta : 1  ',' J. Bryan Sexton : 1  ',' Judy Milne : 1  ',]
+
+S Feuerlein : 0
+['Computed high b-value diffusion-weighted imaging improves lesion contrast and conspicuity in prostate cancer']
+[' Rajan T. Gupta : 1  ',' M S Davenport : 1  ',' A Krishnaraj : 1  ',' E M Merkle : 1  ',]
+
+M S Davenport : 0
+['Computed high b-value diffusion-weighted imaging improves lesion contrast and conspicuity in prostate cancer']
+[' Rajan T. Gupta : 1  ',' S Feuerlein : 1  ',' A Krishnaraj : 1  ',' E M Merkle : 1  ',]
+
+A Krishnaraj : 0
+['Computed high b-value diffusion-weighted imaging improves lesion contrast and conspicuity in prostate cancer']
+[' Rajan T. Gupta : 1  ',' S Feuerlein : 1  ',' M S Davenport : 1  ',' E M Merkle : 1  ',]
+
+E M Merkle : 0
+['Computed high b-value diffusion-weighted imaging improves lesion contrast and conspicuity in prostate cancer']
+[' Rajan T. Gupta : 1  ',' S Feuerlein : 1  ',' M S Davenport : 1  ',' A Krishnaraj : 1  ',]
+
+Matthew S. Davenport : 0
+['Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 2  ',' Mustafa R. Bashir : 1  ',' Brian C. Allen : 1  ',' Tracy A. Jaffe : 1  ',' Lisa M. Ho : 1  ',' Daniel T. Boll : 1  ',' Elmar M. Merkle : 1  ',' Christina M.L. Hsu : 1  ',' Thomas J. Polascik : 1  ',' Christopher Kauffman : 1  ',' Evan Kulbacki : 1  ',' John Madden : 1  ',' Samantha L. Lipman : 1  ',' Mark L. Palmeri : 1  ',' Kathryn R. Nightingale : 1  ',]
+
+Tracy A. Jaffe : 0
+['Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 2  ',' Mustafa R. Bashir : 2  ',' Matthew S. Davenport : 1  ',' Brian C. Allen : 1  ',' Lisa M. Ho : 1  ',' Daniel T. Boll : 1  ',' Elmar M. Merkle : 1  ',' Rekha Mody : 1  ',' Amy Neville : 1  ',' Ramin Javan : 1  ',' Danielle Seaman : 1  ',' Charles Y. Kim : 1  ',]
+
+Lisa M. Ho : 0
+['Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gdâ€\x90EOBâ€\x90DTPA improve sensitivity and confidence for diagnosis?', 'Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?', 'Effect of radiologistsâ€™ experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality']
+[' Rajan T. Gupta : 3  ',' Mustafa R. Bashir : 1  ',' Matthew S. Davenport : 1  ',' Brian C. Allen : 2  ',' Tracy A. Jaffe : 1  ',' Daniel T. Boll : 2  ',' Elmar M. Merkle : 1  ',' Courtney A. Coursey : 1  ',' Rendon C. Nelson : 2  ',' Erik K. Paulson : 1  ',' Amy M. Neville : 1  ',' Daniele Marin : 2  ',' Sebastian T. Schindera : 1  ',' Achille Mileto : 1  ',' Kingshuk Roy Choudhury : 1  ',]
+
+Rekha Mody : 0
+['Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 1  ',' Mustafa R. Bashir : 1  ',' Amy Neville : 1  ',' Ramin Javan : 1  ',' Danielle Seaman : 1  ',' Charles Y. Kim : 1  ',' Tracy A. Jaffe : 1  ',]
+
+Amy Neville : 0
+['Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 1  ',' Mustafa R. Bashir : 1  ',' Rekha Mody : 1  ',' Ramin Javan : 1  ',' Danielle Seaman : 1  ',' Charles Y. Kim : 1  ',' Tracy A. Jaffe : 1  ',]
+
+Ramin Javan : 0
+['Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 1  ',' Mustafa R. Bashir : 1  ',' Rekha Mody : 1  ',' Amy Neville : 1  ',' Danielle Seaman : 1  ',' Charles Y. Kim : 1  ',' Tracy A. Jaffe : 1  ',]
+
+Danielle Seaman : 0
+['Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 1  ',' Mustafa R. Bashir : 1  ',' Rekha Mody : 1  ',' Amy Neville : 1  ',' Ramin Javan : 1  ',' Charles Y. Kim : 1  ',' Tracy A. Jaffe : 1  ',]
+
+Charles Y. Kim : 0
+['Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.']
+[' Rajan T. Gupta : 1  ',' Mustafa R. Bashir : 1  ',' Rekha Mody : 1  ',' Amy Neville : 1  ',' Ramin Javan : 1  ',' Danielle Seaman : 1  ',' Tracy A. Jaffe : 1  ',]
+
+Abhay A. Singh : 0
+['Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.']
+[' Rajan T. Gupta : 1  ',' Kamil F. Faridi : 1  ',' NiccolÃ² M. Passoni : 1  ',' Kirema Garcia-Reyes : 1  ',' John F. Madden : 1  ',' Thomas J. Polascik : 1  ',]
+
+NiccolÃ² M. Passoni : 0
+['Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.']
+[' Rajan T. Gupta : 1  ',' Kamil F. Faridi : 1  ',' Abhay A. Singh : 1  ',' Kirema Garcia-Reyes : 1  ',' John F. Madden : 1  ',' Thomas J. Polascik : 1  ',]
+
+Courtney A. Coursey : 0
+['Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?']
+[' Rajan T. Gupta : 1  ',' Rendon C. Nelson : 1  ',' Daniel T. Boll : 1  ',' Erik K. Paulson : 1  ',' Lisa M. Ho : 1  ',' Amy M. Neville : 1  ',' Daniele Marin : 1  ',' Sebastian T. Schindera : 1  ',]
+
+Amy M. Neville : 0
+['Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?']
+[' Rajan T. Gupta : 1  ',' Courtney A. Coursey : 1  ',' Rendon C. Nelson : 1  ',' Daniel T. Boll : 1  ',' Erik K. Paulson : 1  ',' Lisa M. Ho : 1  ',' Daniele Marin : 1  ',' Sebastian T. Schindera : 1  ',]
+
+Sebastian T. Schindera : 0
+['Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?']
+[' Rajan T. Gupta : 1  ',' Courtney A. Coursey : 1  ',' Rendon C. Nelson : 1  ',' Daniel T. Boll : 1  ',' Erik K. Paulson : 1  ',' Lisa M. Ho : 1  ',' Amy M. Neville : 1  ',' Daniele Marin : 1  ',]
+
+K J Tay : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' J Holtz : 1  ',' R K Silverman : 1  ',' E Tsivian : 1  ',' A Schulman : 1  ',' J W Moul : 1  ',' T J Polascik : 1  ',]
+
+J Holtz : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' K J Tay : 1  ',' R K Silverman : 1  ',' E Tsivian : 1  ',' A Schulman : 1  ',' J W Moul : 1  ',' T J Polascik : 1  ',]
+
+R K Silverman : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' K J Tay : 1  ',' J Holtz : 1  ',' E Tsivian : 1  ',' A Schulman : 1  ',' J W Moul : 1  ',' T J Polascik : 1  ',]
+
+E Tsivian : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' K J Tay : 1  ',' J Holtz : 1  ',' R K Silverman : 1  ',' A Schulman : 1  ',' J W Moul : 1  ',' T J Polascik : 1  ',]
+
+A Schulman : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' K J Tay : 1  ',' J Holtz : 1  ',' R K Silverman : 1  ',' E Tsivian : 1  ',' J W Moul : 1  ',' T J Polascik : 1  ',]
+
+J W Moul : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' K J Tay : 1  ',' J Holtz : 1  ',' R K Silverman : 1  ',' E Tsivian : 1  ',' A Schulman : 1  ',' T J Polascik : 1  ',]
+
+T J Polascik : 0
+['Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|']
+[' Rajan T. Gupta : 1  ',' K J Tay : 1  ',' J Holtz : 1  ',' R K Silverman : 1  ',' E Tsivian : 1  ',' A Schulman : 1  ',' J W Moul : 1  ',]
+
+DaleJoanne : 0
+['Imaging Advances in Urolithiasis']
+[' Rajan T. Gupta : 1  ',' MarinDaniele : 1  ',' LipkinMichael : 1  ',' PremingerGlenn : 1  ',]
+
+MarinDaniele : 0
+['Imaging Advances in Urolithiasis']
+[' Rajan T. Gupta : 1  ',' DaleJoanne : 1  ',' LipkinMichael : 1  ',' PremingerGlenn : 1  ',]
+
+LipkinMichael : 0
+['Imaging Advances in Urolithiasis']
+[' Rajan T. Gupta : 1  ',' DaleJoanne : 1  ',' MarinDaniele : 1  ',' PremingerGlenn : 1  ',]
+
+PremingerGlenn : 0
+['Imaging Advances in Urolithiasis']
+[' Rajan T. Gupta : 1  ',' DaleJoanne : 1  ',' MarinDaniele : 1  ',' LipkinMichael : 1  ',]
+
+Christina M.L. Hsu : 0
+['Methodology to register prostate B-mode and ARFI images to MR and histology']
+[' Rajan T. Gupta : 1  ',' Thomas J. Polascik : 1  ',' Matthew S. Davenport : 1  ',' Christopher Kauffman : 1  ',' Evan Kulbacki : 1  ',' John Madden : 1  ',' Samantha L. Lipman : 1  ',' Mark L. Palmeri : 1  ',' Kathryn R. Nightingale : 1  ',]
+
+Mrinal Sharma : 0
+['Basis Function and PN Phase Generation in TDCS and WDCS towards Dynamic Spectrum Access']
+[' Rajan Gupta : 1  ',]
+
+Sunil Kumar Muttoo : 0
+['Understanding Fraudulent Activities through M-Commerce Transactions', 'Proposal for integrated system architecture in utilities.', 'Implementation & Analysis of Integrated Utility System in Developing Nation like India', 'Development of e-Governance in an Emerging Economy Like India: Assessment and Way Ahead for Key Components', 'Internet Traffic Surveillance & Network Monitoring in India: Case Study of NETRA', 'The Need of a Development Assessment Index for e-Governance in India']
+[' Rajan Gupta : 6  ',' Saibal Kumar Pal : 2  ',' Saibal K. Pal : 3  ',]
+
+Saibal Kumar Pal : 0
+['Understanding Fraudulent Activities through M-Commerce Transactions', 'Implementation & Analysis of Integrated Utility System in Developing Nation like India']
+[' Rajan Gupta : 2  ',' Sunil Kumar Muttoo : 2  ',]
+
+Saibal K. Pal : 0
+['Proposal for integrated system architecture in utilities.', 'Development of e-Governance in an Emerging Economy Like India: Assessment and Way Ahead for Key Components', 'Binary Division Fuzzy C-Means Clustering and Particle Swarm Optimization Based Efficient Intrusion Detection for E-Governance Systems', 'The Need of a Development Assessment Index for e-Governance in India', 'Design and Analysis of New Shuffle Encryption Schemes for Multimedia', 'Hybrid model to improve Bat algorithm performance', 'Network Monitoring and Internet Traffic Surveillance System: Issues and Challenges in India']
+[' Rajan Gupta : 7  ',' Sunil Kumar Muttoo : 3  ',' Sunil K. Muttoo : 2  ',' Ankur Aggarwal : 1  ',' Neeharika Chaudhary : 1  ',]
+
+Sunil K. Muttoo : 0
+['Binary Division Fuzzy C-Means Clustering and Particle Swarm Optimization Based Efficient Intrusion Detection for E-Governance Systems', 'Design & Analysis of Clustering based Intrusion Detection Schemes for E-Governance', 'Network Monitoring and Internet Traffic Surveillance System: Issues and Challenges in India']
+[' Rajan Gupta : 3  ',' Saibal K. Pal : 2  ',' Saibal K Pal : 1  ',]
+
+Saibal K Pal : 0
+['Design & Analysis of Clustering based Intrusion Detection Schemes for E-Governance', 'Dynamic route map generation scheme for mobiles']
+[' Rajan Gupta : 2  ',' Sunil K. Muttoo : 1  ',' Sunil K Muttoo : 1  ',]
+
+Chaitanya Pathak : 0
+['A Machine Learning Framework for Predicting Purchase by Online Customers based on Dynamic Pricing']
+[' Rajan Gupta : 1  ',]
+
+Ankur Aggarwal : 0
+['Design and Analysis of New Shuffle Encryption Schemes for Multimedia']
+[' Rajan Gupta : 1  ',' Saibal K. Pal : 1  ',]
+
+Sunil K Muttoo : 0
+['Dynamic route map generation scheme for mobiles']
+[' Rajan Gupta : 1  ',' Saibal K Pal : 1  ',]
+
+Neeharika Chaudhary : 0
+['Hybrid model to improve Bat algorithm performance']
+[' Rajan Gupta : 1  ',' Saibal K. Pal : 1  ',]
+
