@@ -1,0 +1,105 @@
+.center-panel {
+        position: relative;
+        z-index: 1;  /* Grafiğin en üstte olmasını sağlar */
+        width: 90%;
+        height: 1000px;
+        margin-left: 20%;  /* Sol panelin genişliği kadar kaydır */
+    }
+
+    #author-graph {
+        width: 110%;
+        height: 100%;
+        position: relative;  /* Grafik elemanları normalde bu alanda yerleşir */
+
+    }
+
+    /* Sol panel */
+    .left-panel {
+        position: absolute;
+        left: 10px;
+        width: 20%;
+        height: calc(100vh - 40px); /* Yüksekliği belirleyin */
+        background-color: #f0f0f0;
+        z-index: 2; /* Sol panelin grafiğin üstünde görünmesini sağlar */
+
+    }
+
+    /* Sağ panel */
+    .right-panel {
+        position: absolute;
+        right: 10px;
+        width: 20%;
+        height: calc(100vh - 40px); /* Yüksekliği belirleyin */
+        background-color: #f0f0f0;
+        z-index: 2; /* Sağ panelin grafiğin üstünde görünmesini sağlar */
+    }
+
+    #info-panel {
+    padding: 20px;
+    border-radius: 50px !important;  /* Köşeleri yuvarlatma */
+    backdrop-filter: blur(4.1px) !important;
+    border-right: blueviolet !important;
+    border-left: blueviolet !important;
+    position: fixed;
+    width: 220px !important;
+    height: 330px !important;
+    box-shadow:
+        0px 15px 40px rgba(0, 0, 0, 0.5),    /* Büyük ve koyu ana gölge */
+        0px 20px 80px rgba(0, 0, 0, 0.6),    /* Daha geniş ve daha belirgin ikinci gölge */
+        0px 25px 100px rgba(0, 0, 0, 0.4)    /* Daha büyük bir üçüncü gölge */
+    !important;
+    display: none;
+    transition: opacity 1.5s ease, transform 1.5s ease;
+    cursor: pointer; /* Tıklanabilir olduğunu göstermek için */
+    opacity: 1;  /* Başlangıçta tamamen görünür */
+    transform: perspective(600px) rotateX(10deg) rotateY(10deg);
+}
+
+/* Panelin kaybolması */
+#info-panel.hidden {
+    opacity: 0;  /* Şeffaflık sıfır olacak */
+    transform: perspective(600px) rotateX(10deg) rotateY(10deg) scale(0.8);  /* Daha küçük ve kaybolan bir görünüme sahip */
+}
+
+/* Hover durumu (panel üzerine gelince) */
+#info-panel:hover {
+    transform: perspective(600px) rotateX(0deg) rotateY(0deg) translateZ(60px);
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.5), 0px 10px 25px rgba(0, 0, 0, 0.7);
+}
+
+
+    body.light-theme #info-panel {
+        backdrop-filter: blur(4.1px) !important;
+        border-right: blueviolet !important;
+        border-left: blueviolet !important;
+    }
+
+    /* Etiketler (Labels) için stil */
+.graph-labels text {
+    font-size: 12px; /* Etiket yazı boyutu */
+    fill: white !important; /* Etiket rengi (koyu gri) */
+    font-family: Arial, sans-serif; /* Yazı tipi */
+    text-anchor: middle; /* Yazıyı etiketin ortasında hizala */
+    pointer-events: none; /* Etiketlerin tıklanabilir olmasını engelle */
+    user-select: none; /* Kullanıcıların etiketi seçmesini engelle */
+    transition: fill 0.3s ease; /* Etiket renk değişim animasyonu */
+}
+
+body.light-theme .graph-labels text {
+    fill: black !important; /* Açık temada gri rengi uygulama */
+}
+
+#close-info-panel {
+    position: absolute;
+    top: 10px;
+    left: 10px; /* Sol üst köşeye yerleştiriyoruz */
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
+
+#close-info-panel:hover {
+    color: #ff4d4d; /* Kırmızıya dönüş */
+}

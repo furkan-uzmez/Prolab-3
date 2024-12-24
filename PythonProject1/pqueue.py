@@ -8,7 +8,7 @@ class PriorityQueue:
     def pop(self):
         if not self.queue:
             raise IndexError("Kuyruk boş")
-        return self.queue.pop(0)[1]
+        return self.queue.pop(0)
     def is_empty(self):
         return len(self.queue) == 0
     def toString(self):

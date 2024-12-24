@@ -46,7 +46,7 @@ body.light-theme {
 body.light-theme .left-panel, body.light-theme .right-panel {
     background: linear-gradient(135deg, white, darkgray ); /* Açık tema geçişi */
     color: #2c3e50; /* Koyu yazı rengi */
-    transition: background-color 1s ease, color 1s ease; /* Panel geçişi */
+    transition: all 1.3s ease; /* Panel geçişi */
     backdrop-filter: blur(100px);
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.7);
     border: 2px solid rgba(255, 255, 255, 0.18);

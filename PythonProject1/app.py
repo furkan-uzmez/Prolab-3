@@ -15,10 +15,11 @@ def get_graph_data():
 
     # Create nodes
     for i, yazar in enumerate(yazarlar):
-        node_map[yazar.name] = i
+        node_map[yazar.id] = i
         nodes.append({
             'id': i,
             'name': yazar.name,
+            'orcid': yazar.id,
             'group': 1,  # You can modify grouping based on your needs
             'papers': len(yazar.makaleler),
             'details': {  # Detay bilgileri buraya eklenebilir
@@ -29,11 +30,11 @@ def get_graph_data():
 
     # Create links
     for yazar in yazarlar:
-        for coauthorname, weight in yazar.dict_edges.items():
-            if coauthorname in node_map:
+        for coauthorid, weight in yazar.dict_edges.items():
+            if coauthorid in node_map:
                 links.append({
-                    'source': node_map[yazar.name],
-                    'target': node_map[coauthorname],
+                    'source': node_map[yazar.id],
+                    'target': node_map[coauthorid],
                     'value': weight
                 })
 
@@ -72,6 +73,7 @@ def ister(number):
                            output=output,
                            graph=graph,
                            current_ister=number)
+
 
 
 @app.route('/submit_form', methods=['POST'])

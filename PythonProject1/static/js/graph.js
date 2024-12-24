@@ -77,11 +77,12 @@ const threshold = averagePapers * 0.2;
 // Düğüm boyut ve renk skalasını belirle
 const scaleRadius = d3.scaleLinear()
     .domain([0, averagePapers + threshold])
-    .range([8, 10]); // Yüzde 20 altında küçük, üstünde büyük
+    .range([13, 21]); // Yüzde 20 altında küçük, üstünde büyük
 
-const scaleColor = d3.scaleLinear()
-    .domain([0, averagePapers + threshold])
-    .range(["lightblue", "darkblue"]); // Yüzde 20 altında açık renk, üstünde koyu renk
+  // BLUEVIOLET RENK SKALASI (Ton farkını artırdık)
+        const scaleColor = d3.scaleLinear()
+            .domain([0, averagePapers + threshold])
+            .range(["#9b4dff", "blueviolet","#4b0082"]); // Daha belirgin bir renk geçişi (Açık BlueViolet'tan koyu Purple'a)
 
         // Düğümler (Nodes)
         const node = graphGroup.append("g")
@@ -93,10 +94,21 @@ const scaleColor = d3.scaleLinear()
             .attr("r", d => scaleRadius(d.papers)) // Makale sayısına göre boyut
             .attr("fill", d => scaleColor(d.papers)) // Makale sayısına göre renk
             .on("click", (event, d) => {
+                // Ekranın tam ortasında konumlandır
+                const panelWidth = 300; // Panelin genişliği (örnek olarak)
+                const panelHeight = 200; // Panelin yüksekliği (örnek olarak)
+                const screenWidth = window.innerWidth;
+                const screenHeight = window.innerHeight;
+
+                // Bilgi panelini ekranın ortasında yerleştir
+                const left = (screenWidth - panelWidth) / 2 - 660;
+                const top = (screenHeight - panelHeight) / 2 - 307;
+
                 // Tıklanan düğümün bilgilerini göster
                 const infoPanel = d3.select("#info-panel");
                 infoPanel.html(`
                     <h3>${d.name}</h3>
+                    <p><strong>ID:</strong> ${d.orcid}</p> 
                     <p><strong>Makaleler:</strong></p>
                     <ul>
                         ${(d.details.papers || []).map((article, index) => `<li>${index + 1} - ${article}</li>`).join('')}
@@ -107,8 +119,18 @@ const scaleColor = d3.scaleLinear()
                             .map(([key, value]) => `<li>${key}: ${value}</li>`).join('')}
                     </ul>`);
                 infoPanel.style("display", "block")
-                         .style("left", `${event.pageX + 10}px`)
-                         .style("top", `${event.pageY + 10}px`);
+                         .style("left", `${left}px`)
+                         .style("top", `${top}px`);
+                 // Arka plan rengini kaldırmak için:
+                infoPanel.style("background-color", "transparent");
+            })
+            .on("mouseover", function(event, d) {
+                // Mouse over: Düğüm rengini değiştir
+                d3.select(this).attr("fill", "#00ddeb"); // Düğümü kırmızıya boya
+            })
+            .on("mouseout", function(event, d) {
+                // Mouse out: Düğüm rengini eski haline getir
+                d3.select(this).attr("fill", scaleColor(d.papers)); // Orijinal rengine geri döndür
             })
             .call(d3.drag()
                 .on("start", dragstarted)
