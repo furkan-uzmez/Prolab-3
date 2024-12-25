@@ -48,22 +48,56 @@ function handleFormSubmit(isterNumber, formData) {
 
     console.log('İster ${isterNumber} submitted:', data);
 
-    fetch('/submit_form', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data)
-    })
-    .then(response => response.text())
-    .then(html => {
-        // Çıktıyı güncelle
-        document.getElementById('output').innerHTML = html;
-    })
-    .catch(error => {
-        console.error('Hata:', error);
-        document.getElementById('output').innerHTML = 'Bir hata oluştu.';
-    });
+
+fetch('/submit_form', {
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(data)
+})
+.then(response => {
+    if (!response.ok) {
+        throw new Error(`Network response was not ok: ${response.statusText}`);
+    }
+    return response.json();
+})
+.then(data => {
+    console.log('Received data:', data);
+
+    // Validate data structure
+    if (!data || typeof data !== 'object') {
+        throw new Error('Invalid data received from server');
+    }
+
+    // Update output display
+    const outputElement = document.getElementById('output');
+    if (data.htmlOutput) {
+        outputElement.innerHTML = data.htmlOutput;
+    } else if (typeof data === 'string') {
+        outputElement.innerHTML = data;
+    } else {
+        outputElement.innerHTML = `
+            ${data.result || 'N/A'}<br>
+        `;
+    }
+
+    // Handle path visualization if valid
+    if (data.path && Array.isArray(data.path)) {
+        d3.selectAll("circle")
+            .filter(d => data.path.includes(d.orcid))
+            .transition()
+            .duration(500)
+            .attr("fill", "red")
+            .attr("r", function() {
+                return parseFloat(d3.select(this).attr("r")) * 1.2;
+            });
+    }
+})
+.catch(error => {
+    console.error('Error:', error);
+    document.getElementById('output').innerHTML = `Error: ${error.message}`;
+});
 }
 
 // Form Closing Function

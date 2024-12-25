@@ -70,6 +70,8 @@ fetch('/api/graph-data')
             .attr("stroke", "#999")
             .attr("stroke-opacity", 0.6)
             .attr("stroke-width", 1.5);
+
+
 // Makale ortalamasını hesapla
 const averagePapers = data.nodes.reduce((sum, node) => sum + node.papers, 0) / data.nodes.length;
 const threshold = averagePapers * 0.2;
@@ -198,3 +200,4 @@ const scaleRadius = d3.scaleLinear()
         });
     })
     .catch(error => console.error("Veri çekme hatası:", error));
+

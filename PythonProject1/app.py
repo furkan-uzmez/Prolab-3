@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify,session
 import time
 from main import load_authors, process_ister1, process_single_author
 from flask_cors import CORS
@@ -75,7 +75,6 @@ def ister(number):
                            current_ister=number)
 
 
-
 @app.route('/submit_form', methods=['POST'])
 def submit_form():
     data = request.json
@@ -85,25 +84,24 @@ def submit_form():
 
     print(f"İster {ister_number} alındı: {author_a}, {author_b}")
     if ister_number == 1:
-        return submit_ister1(author_a, author_b)
+        result = submit_ister1(author_a, author_b)
+        print('Result :',result)
+        return result
     else :
         return submit_single_author(author_a,ister_number)
 
 
-@app.route('/submit_ister1', methods=['POST'])
+@app.route('/submit_ister1',methods=['POST'])
 def submit_ister1(author_a, author_b):
-    # Analiz fonksiyonunu çağır
-    result = process_ister1(author_a, author_b)
-
-    return result  # Çıktıyı doğrudan gönder
-
+    result,path = process_ister1(author_a, author_b)
+    print("Path :", path)
+    return jsonify({'result': result, 'path': path})  # Çıktıyı doğrudan gönder
 
 @app.route('/submit_single_author', methods=['POST'])
 def submit_single_author(author_id,ister_number):
     # Analiz fonksiyonunu çağır
-    result = process_single_author(author_id, ister_number)
-
-    return result  # Çıktıyı doğrudan gönder
+    result,path = process_single_author(author_id, ister_number)
+    return jsonify({'result': result, 'path': path})
 
 if __name__ == "__main__":
     app.run(debug=True)
