@@ -87,12 +87,33 @@ fetch('/submit_form', {
         d3.selectAll("circle")
             .filter(d => data.path.includes(d.orcid))
             .transition()
-            .duration(500)
             .attr("fill", "red")
             .attr("r", function() {
-                return parseFloat(d3.select(this).attr("r")) * 1.2;
+                return parseFloat(d3.select(this).attr("r"));
             });
-    }
+        // Highlight edges
+        d3.selectAll("line")
+            .filter(d => {
+                // Ardışık nodeları kontrol et
+                for(let i = 0; i < data.path.length - 1; i++) {
+                    let currentNode = data.path[i];
+                    let nextNode = data.path[i + 1];
+
+                    // Her iki yönü de kontrol et
+                    if ((d.source.orcid === currentNode && d.target.orcid === nextNode) ||
+                        (d.source.orcid === nextNode && d.target.orcid === currentNode)) {
+                            console.log("Match found!"); // Eşleşme bulunduğunda log
+                            console.log(`Matching edge: ${currentNode} -> ${nextNode}`);
+                            console.log("Edge source:", d.source.orcid, "Edge target:", d.target.orcid);
+                            return true;
+                    }
+                }
+                return false;
+            })
+            .style("stroke", "red")           // transition yerine direkt style kullan
+            .style("stroke-width", "3px");
+
+        }
 })
 .catch(error => {
     console.error('Error:', error);
