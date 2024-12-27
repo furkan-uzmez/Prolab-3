@@ -12,7 +12,18 @@
         position: relative;  /* Grafik elemanları normalde bu alanda yerleşir */
 
     }
+    /* Bağlantılar (Linkler) */
+.links .link {
+    stroke: #D0B3FF;              /* Bağlantıların rengini gri yapar */
+    stroke-opacity: 0.6;       /* Bağlantının şeffaflık seviyesini ayarlar */
+    stroke-width: 1.5;         /* Bağlantının kalınlık seviyesini ayarlar */
+    transition: stroke-opacity 0.2s ease; /* Opaklık değişimini animasyonla yapar */
+}
 
+.links .link:hover {
+    stroke-opacity: 1;         /* Bağlantı üzerine gelindiğinde opaklığı %100 yapar */
+    stroke: #8A2BE2;              /* Rengini biraz daha koyu hale getirir */
+}
     /* Sol panel */
     .left-panel {
         position: absolute;

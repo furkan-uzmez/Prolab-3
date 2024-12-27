@@ -126,14 +126,6 @@ const scaleRadius = d3.scaleLinear()
                  // Arka plan rengini kaldırmak için:
                 infoPanel.style("background-color", "transparent");
             })
-            .on("mouseover", function(event, d) {
-                // Mouse over: Düğüm rengini değiştir
-                d3.select(this).attr("fill", "#00ddeb"); // Düğümü kırmızıya boya
-            })
-            .on("mouseout", function(event, d) {
-                // Mouse out: Düğüm rengini eski haline getir
-                d3.select(this).attr("fill", scaleColor(d.papers)); // Orijinal rengine geri döndür
-            })
             .call(d3.drag()
                 .on("start", dragstarted)
                 .on("drag", dragged)
@@ -147,8 +139,8 @@ const scaleRadius = d3.scaleLinear()
             .append("text")
             .text(d => d.name)
             .attr("font-size", "12px")
-            .attr("fill", "#555");
-
+            .attr("fill", "gray")
+            .attr("font-weight", "bold");
         // Simülasyonu çalıştır
         simulation.on("tick", () => {
             link.attr("x1", d => d.source.x)

@@ -2,7 +2,7 @@ from pqueue import PriorityQueue
 from myqueue import Queue
 
 def dijkstra(graph, start):
-    kuyruk = Queue() # 3.ister için
+    #kuyruk = Queue() # 3.ister için
 
     INF = 10 ** 9
     distances = {}
@@ -20,8 +20,7 @@ def dijkstra(graph, start):
     unvisited.push(start, 0)
 
     while not unvisited.is_empty():
-        priority,current_node = unvisited.pop()
-        kuyruk.add((current_node,priority))
+        current_node = unvisited.pop()
 
         for neighbor, weight in graph[current_node].items():
             distance = distances[current_node] + weight
@@ -30,11 +29,11 @@ def dijkstra(graph, start):
                 distances[neighbor] = distance
                 previous_nodes[neighbor] = current_node
                 unvisited.push(neighbor, distance)
-    return distances, previous_nodes,kuyruk
+    return distances, previous_nodes
 
 
 def shortest_path(graph, start, end): # 1.ister
-    distances, previous_nodes,kuyruk = dijkstra(graph, start)
+    distances, previous_nodes = dijkstra(graph, start)
 
     path = []
     current_node = end
@@ -45,5 +44,5 @@ def shortest_path(graph, start, end): # 1.ister
     path.reverse()
     #print(path)
     #print(distances[end])
-    return path, distances[end],kuyruk
+    return path, distances[end]
 

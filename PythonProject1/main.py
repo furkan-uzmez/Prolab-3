@@ -3,7 +3,7 @@ import ast
 import dijkstra
 import time
 from pqueue import PriorityQueue
-from  bst import BST
+from  bst import AVLTree
 
 class Yazar:
     def __init__(self, name, id=0):
@@ -11,6 +11,7 @@ class Yazar:
         self.name = name
         self.makaleler = []
         self.dict_edges = {}
+        self.dict_edges_names = {}
 
     def add_makele(self, makale):
         self.makaleler.append(makale)
@@ -23,6 +24,10 @@ class Yazar:
                 self.dict_edges[edge.id] = 0
             self.dict_edges[edge.id] += 1
 
+    def convert(self,idler):
+        for orcid,cost in self.dict_edges.items():
+            self.dict_edges_names[idler[orcid].name] = cost
+
     def get_lenght_edges(self): # 5.ister
         return len(self.dict_edges)
 
@@ -33,33 +38,41 @@ class Yazar:
 def create_queue(author,idler): # 2.ister
     kuyruk = PriorityQueue()
     yazarlar = [(author.id,author.get_lenght_makale())]
-    print(idler['22'])
+
     for id,_ in author.dict_edges.items():
         x = idler[id]
         yazarlar.append((id,x.get_lenght_makale()))
     for node , priority in yazarlar:
-        print(kuyruk.queue)
         kuyruk.push(node, priority)
-    #print(kuyruk.queue)
+
     return kuyruk.queue
 
 def shortest_path_collaborators(author,idler): # 4.ister
-    graph = {author.id : author.dict_edges}
-
+    graph = {}
+    temp_list = []
     unvisited = []
 
     for i,_ in author.dict_edges.items():
-        unvisited.append(i)
-        x = idler[i]
-        graph[x.id] = x.dict_edges
+        temp_list.append(i)
+        for j,_ in idler[i].dict_edges.items():
+            if j not in temp_list:
+                temp_list.append(j)
 
+    for x in temp_list:
+        temp = idler[x]
+        graph[x] = temp.dict_edges
+        unvisited.append(x)
+
+    print(graph)
     visited = set()
 
     shortest_paths = {}
     distances = {}
     for x in unvisited:
+        if x == author.id:
+            continue
         if x not in visited:
-            shortest_paths[x],distances[x],_ = dijkstra.shortest_path(graph,author.id,x)
+            shortest_paths[x],distances[x] = dijkstra.shortest_path(graph,author.id,x)
             visited.add(x)
 
     return shortest_paths,distances
@@ -158,7 +171,9 @@ def load_authors():
         for x in yazarlar:
             toplam_edge += x.get_lenght_edges()
             yazar_edges[x.id] = x.dict_edges
+            x.convert(idler)
 
+        #print(yazar_edges['138'])
         print(toplam)
         print(toplam_edge)
         print(len(yazarlar))
@@ -171,7 +186,7 @@ def load_authors():
 
 def process_ister1(author_a, author_b):
     # İki yazar arasındaki ilişkiyi analiz eden kod
-    yazarlar,names,graph = load_authors()
+    yazarlar,idler,graph = load_authors()
 
     # Yazarları bul
     yazar1 = next((y for y in yazarlar if y.id == author_a), None)
@@ -183,19 +198,19 @@ def process_ister1(author_a, author_b):
     # Ortak makaleler, işbirlikleri vb. analiz edilebilir
     #ortak_makaleler = set(yazar1.makaleler) & set(yazar2.makaleler)
 
-    path,distance,kuyruk = dijkstra.shortest_path(graph,yazar1.id,yazar2.id)
+    path,distance = dijkstra.shortest_path(graph,yazar1.id,yazar2.id)
 
-    print(kuyruk.Print())
-    bst = BST()
-    curr = kuyruk.head
-    while curr != None:
-        temp_list = [curr.data[0],curr.data[1]]
-        bst.root = bst.Insert(bst.root,temp_list)
-        curr = curr.next
-    bst.Print(bst.root)
+    bst = AVLTree()
+    priority = 0
+    for x in path:
+        bst.root = bst.Insert(bst.root,[x,priority])
+        priority += 1
 
-    formatted_path = "<br>".join(path)
-    return f"Yazar1:{yazar1.name}<br>Yazar2:{yazar2.name}<br><br>En Kısa Yol:<br>{formatted_path}<br><br>Maliyet: {distance}",path
+    temp_path = []
+    for x in path:
+        temp_path.append(idler[x].name)
+    formatted_path = "<br>".join(temp_path)
+    return f"Yazar1:{yazar1.name}<br>Yazar2:{yazar2.name}<br><br>En Kısa Yol:<br>{formatted_path}<br><br>Maliyet: {distance}",path,bst
 
 
 def process_single_author(author_id, ister_number):
@@ -207,7 +222,7 @@ def process_single_author(author_id, ister_number):
     if ister_number == 6:
         yazar = en_cok_isbirligi(yazarlar)
         path = [yazar.id]
-        formatted_path = "<br>".join([f"{bağlantı} : {ağırlık}" for bağlantı, ağırlık in yazar.dict_edges.items()])
+        formatted_path = "<br>".join([f"{idler[bağlantı].name} : {ağırlık}" for bağlantı, ağırlık in yazar.dict_edges.items()])
         return f"""
                 En çok işbirliği yapan yazar :<br>
                 {yazar.name}: {yazar.get_lenght_edges()} işbirliği<br><br>
@@ -219,33 +234,31 @@ def process_single_author(author_id, ister_number):
         return "Yazar bulunamadı!"
 
     if ister_number == 2:
-        path= []
+        path= [yazar.id]
         kuyruk = create_queue(yazar,idler)
         kuyruk.reverse()
-        print(kuyruk)
-        formatted_path = "<br>".join([f"{t[1]}: {t[0]}" for t in kuyruk])
+        temp_path = []
+        for x in kuyruk:
+            temp_path.append(x[1])
+        formatted_path = "<br>".join([f"{idx + 1}-{idler[t[1]].name}: {t[0]}" for idx, t in enumerate(kuyruk)])
         return "Yazar - Ağırlık(Makale Sayısı)<br>" + formatted_path , path
-    elif ister_number == 3:
-        return f"""
-            3. İster Sonuçları:
-            - Yazar Adı: {yazar.name}
-            - İşbirliği Sayısı: {yazar.get_lenght_edges()}
-            """
 
     elif ister_number == 4:
         path = []
         shortest_paths,distances = shortest_path_collaborators(yazar,idler)
         string = " "
         for i,j in shortest_paths.items():
-            string += f"{yazar.name} - {i} en kısa yol :<br><br>"
+            string += f"{yazar.name} - {idler[i].name} en kısa yol :<br><br>"
             for k in j:
-                string += f"{k}<br>"
+                path.append(i)
+                path.append(k)
+                string += f"{idler[k].name}<br>"
             string += "<br>"
             string += f"Maliyet : {distances[i]}<br><br><br>"
         return string,path
     elif ister_number == 5:
         path = [yazar.id]
-        formatted_path = "<br>".join([f"{bağlantı} : {ağırlık}" for bağlantı, ağırlık in yazar.dict_edges.items()])
+        formatted_path = "<br>".join([f"{bağlantı} : {ağırlık}" for bağlantı, ağırlık in yazar.dict_edges_names.items()])
         return f"""
                 Yazar adı: {yazar.name}  <br>
                 İş birliği yaptığı yazar sayısı: {yazar.get_lenght_edges()} <br><br>
@@ -254,11 +267,15 @@ def process_single_author(author_id, ister_number):
                 """,path
     elif ister_number == 7:
         start_time = time.time()
+        print("fasfs")
         path = longest_path(graph , yazar.id)
         end_time = time.time()
         print(f"İşlem süresi: {end_time - start_time:.5f} saniye")
         distance = len(path)
-        formatted_path = "<br>".join(path)
+        temp_path = []
+        for x in path:
+            temp_path.append(idler[x].name)
+        formatted_path = "<br>".join(temp_path)
         return f"Yazar adı : {yazar.name}<br>En uzun yol:<br>{formatted_path}<br>Maliyet: {distance}",path
 
     return "Geçersiz ister numarası!"

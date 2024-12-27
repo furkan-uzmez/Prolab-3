@@ -1,8 +1,12 @@
-from flask import Flask, render_template, request, jsonify,session
+import base64
+from flask import Flask, render_template, request, jsonify,send_file
 import time
+from bst import BSTVisualizer,convert_bst_to_json
 from main import load_authors, process_ister1, process_single_author
 from flask_cors import CORS
 
+global temp_bst
+global temp_path
 app = Flask(__name__, template_folder='templates', static_folder='static')
 CORS(app)
 
@@ -12,6 +16,7 @@ def get_graph_data():
     nodes = []
     links = []
     node_map = {}
+
 
     # Create nodes
     for i, yazar in enumerate(yazarlar):
@@ -24,7 +29,7 @@ def get_graph_data():
             'papers': len(yazar.makaleler),
             'details': {  # Detay bilgileri buraya eklenebilir
                 'papers': yazar.makaleler,
-                'connections': yazar.dict_edges
+                'connections': yazar.dict_edges_names
             }
         })
 
@@ -54,7 +59,7 @@ def home():
     with open("output.txt", "w", encoding="utf-8") as dosya:
         for x in yazarlar:
             dosya.write(f"{x.name} : {x.id}\n{x.makaleler}\n[")
-            for i, j in x.dict_edges.items():
+            for i, j in x.dict_edges_names.items():
                 dosya.write(f"' {i} : {j}  ',")
             dosya.write("]\n\n")
 
@@ -93,15 +98,65 @@ def submit_form():
 
 @app.route('/submit_ister1',methods=['POST'])
 def submit_ister1(author_a, author_b):
-    result,path = process_ister1(author_a, author_b)
+    global temp_bst
+    global temp_path
+
+    result,path,bst = process_ister1(author_a, author_b)
+    temp_bst = bst
+    temp_path = path
     print("Path :", path)
+    print("Temp_bst:", temp_bst)
     return jsonify({'result': result, 'path': path})  # Çıktıyı doğrudan gönder
 
 @app.route('/submit_single_author', methods=['POST'])
 def submit_single_author(author_id,ister_number):
+    global temp_bst
+    global temp_path
     # Analiz fonksiyonunu çağır
-    result,path = process_single_author(author_id, ister_number)
-    return jsonify({'result': result, 'path': path})
+    if ister_number == 3:
+        print("İndex:",temp_path.index(author_id))
+        print("Temp_bst:")
+        temp_bst.Print(temp_bst.root)
+        temp_bst.root = temp_bst.Remove(temp_bst.root,temp_path.index(author_id))
+        print("Temp_bst:")
+        temp_bst.Print(temp_bst.root)
+        return handle_bst(temp_bst)
+    else:
+        result, path = process_single_author(author_id, ister_number)
+        return jsonify({'result': result, 'path': path})
+
+
+#BST visualization
+def handle_bst(temp_bst):
+    #global temp_bst
+
+    if temp_bst is None:
+        return jsonify({'status': 'error', 'message': 'No BST data available'})
+
+        # Check Accept header
+    accept_header = request.headers.get('Accept', '')
+
+    try:
+        visualizer = BSTVisualizer()
+
+        if 'application/json' in accept_header:
+                # Return JSON representation
+            tree_data = convert_bst_to_json(temp_bst.root)
+            return jsonify({
+                'status': 'success',
+                 'tree': tree_data
+              })
+        else:
+                # Return PNG image with base64 encoding
+            png_buffer = visualizer.visualize_to_png(temp_bst)
+            base64_image = base64.b64encode(png_buffer.getvalue()).decode('utf-8')
+            return jsonify({
+                'status': 'success',
+                'image': f'data:image/png;base64,{base64_image}'
+            })
+    except Exception as e:
+        return jsonify({'status': 'error', 'message': str(e)})
+
 
 if __name__ == "__main__":
     app.run(debug=True)

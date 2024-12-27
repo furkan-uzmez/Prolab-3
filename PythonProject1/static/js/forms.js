@@ -65,13 +65,53 @@ fetch('/submit_form', {
 .then(data => {
     console.log('Received data:', data);
 
+    // Clear previous path highlights and restore original styles
+    d3.selectAll("circle").each(function() {
+        const circle = d3.select(this);
+        const originalFill = circle.attr("data-original-fill");
+        const originalRadius = circle.attr("data-original-radius");
+
+        if (originalFill && originalRadius) {
+            circle.transition()
+                .attr("fill", originalFill)
+                .attr("r", originalRadius);
+        }
+    });
+
+    d3.selectAll("line").each(function() {
+        const line = d3.select(this);
+        const originalStroke = line.attr("data-original-stroke");
+        const originalWidth = line.attr("data-original-stroke-width");
+
+        if (originalStroke && originalWidth) {
+            line.style("stroke", originalStroke)
+                .style("stroke-width", originalWidth);
+        }
+    });
+
+    // Update output display
+    const outputElement = document.getElementById('output');
+
+    // Handle BST visualization
+    if (isterNumber === 3 || (data.image && data.status === 'success')) {
+        outputElement.innerHTML = '';
+        const img = document.createElement('img');
+        img.src = data.image;
+        img.style.maxWidth = '100%';
+        img.style.height = 'auto';
+        img.style.display = 'block';
+        img.style.margin = '20px auto';
+        img.alt = 'BST Visualization';
+        outputElement.appendChild(img);
+        return;
+    }
+
     // Validate data structure
     if (!data || typeof data !== 'object') {
         throw new Error('Invalid data received from server');
     }
 
-    // Update output display
-    const outputElement = document.getElementById('output');
+
     if (data.htmlOutput) {
         outputElement.innerHTML = data.htmlOutput;
     } else if (typeof data === 'string') {
@@ -85,6 +125,17 @@ fetch('/submit_form', {
     // Handle path visualization if valid
     if (data.path && Array.isArray(data.path)) {
         d3.selectAll("circle")
+            .each(function() {
+                const circle = d3.select(this);
+
+                // İlk seferde orijinal değerleri sakla
+                if (!circle.attr("data-original-fill")) {
+                    circle.attr("data-original-fill", circle.attr("fill"));
+                }
+                if (!circle.attr("data-original-radius")) {
+                    circle.attr("data-original-radius", circle.attr("r"));
+                }
+            })
             .filter(d => data.path.includes(d.orcid))
             .transition()
             .attr("fill", "red")
@@ -93,6 +144,17 @@ fetch('/submit_form', {
             });
         // Highlight edges
         d3.selectAll("line")
+            .each(function() {
+                const line = d3.select(this);
+
+                // İlk seferde orijinal değerleri sakla
+                if (!line.attr("data-original-stroke")) {
+                    line.attr("data-original-stroke", line.style("stroke"));
+                }
+                if (!line.attr("data-original-stroke-width")) {
+                    line.attr("data-original-stroke-width", line.style("stroke-width"));
+                }
+            })
             .filter(d => {
                 // Ardışık nodeları kontrol et
                 for(let i = 0; i < data.path.length - 1; i++) {
