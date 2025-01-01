@@ -128,7 +128,7 @@ body.light-theme.submit-button:hover:not(:disabled){
     padding-right: 40px;
     font-size: 16px;
     border-radius: 50px;
-    margin-top: 15px; /* Burada input'u 15px aşağıya kaydırıyoruz */
+    margin-top: 15px;
     outline: none;
     transition: all 0.3s ease;
     background: linear-gradient(144deg,black, black 50%,black);

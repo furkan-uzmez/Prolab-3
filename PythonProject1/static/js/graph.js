@@ -103,7 +103,7 @@ const scaleRadius = d3.scaleLinear()
                 const screenHeight = window.innerHeight;
 
                 // Bilgi panelini ekranın ortasında yerleştir
-                const left = (screenWidth - panelWidth) / 2 - 660;
+                const left = (screenWidth - panelWidth) / 2 - 640;
                 const top = (screenHeight - panelHeight) / 2 - 307;
 
                 // Tıklanan düğümün bilgilerini göster

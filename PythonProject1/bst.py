@@ -149,11 +149,12 @@ class AVLTree:
         self.Print(root.right)
 
 class BSTVisualizer:
-    def __init__(self, width=800, height=600, node_radius=20, vertical_spacing=80):
+    def __init__(self, width=800, height=800, node_radius=30, vertical_spacing=200, spacing_factor=4):
         self.width = width
         self.height = height
         self.node_radius = node_radius
         self.vertical_spacing = vertical_spacing
+        self.spacing_factor = spacing_factor
         self.node_color = (226, 232, 240)  # Light gray
         self.line_color = (148, 163, 184)  # Slate gray
         self.text_color = (30, 41, 59)  # Dark blue/gray
@@ -221,10 +222,10 @@ class BSTVisualizer:
 
         # Calculate initial spacing
         total_width, _ = self._calculate_tree_dimensions(bst.root)
-        dx = self.width / (total_width + 2)
+        dx = self.width / (total_width + 2) * self.spacing_factor  # Apply spacing factor
 
         # Draw the tree
-        self._draw_tree(draw, bst.root, self.width / 2, 50, dx / 2, font)
+        self._draw_tree(draw, bst.root, self.width / 2, 50, dx, font)
 
         # Convert to PNG
         img_byte_array = io.BytesIO()

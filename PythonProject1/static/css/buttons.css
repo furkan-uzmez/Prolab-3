@@ -16,11 +16,9 @@
     z-index: 0;
     box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
 }
-
 .ister-button:active {
   transform: scale(0.96);
 }
-
 .ister-button:hover {
     background-color: transparent;
     color: #fff;
@@ -30,9 +28,6 @@
     transform: scale(1);
 
 }
-
-
-
 .ister-button:before,
 .ister-button:after {
   position: absolute;
@@ -45,7 +40,6 @@
   background-repeat: no-repeat;
 }
 
-    /* Hover Durumunda Genişleyen Daire ve Işıltılı Efekti */
     .ister-button:hover::before {
         top: -70%;
   background-image: radial-gradient(circle, white 20%, transparent 20%),

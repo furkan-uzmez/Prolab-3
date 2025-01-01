@@ -9,7 +9,7 @@
     transition: all 0.4s ease;
     height: calc(100vh - 40px);
     overflow-y: auto;
-    overflow-y: auto; /* Dikey kaydırma çubuğu ekler */
+    overflow-y: auto;
     min-width: 250px;
     max-width: 600px;
     resize: horizontal;
@@ -23,14 +23,14 @@
     margin-right: 30px;
     display: flex;
     flex-direction: column;
-    overflow-y: auto;  /* Kaydırma özelliğini etkinleştir */
-    height: calc(100vh - 40px); /* Yüksekliği belirleyin */
-    padding-right: 15px;  /* Sağ taraftan biraz boşluk ekleyebilirsiniz */
+    overflow-y: auto;
+    height: calc(100vh - 40px);
+    padding-right: 15px;
     backdrop-filter: blur(30px);
     box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
     border: 2px solid rgba(255, 255, 255, 0.18);
     transition: all 1.3s ease;
-    overflow-y: auto; /* Dikey kaydırma çubuğu ekler */
+    overflow-y: auto;
 }
 
 .right-panel {
@@ -41,7 +41,7 @@
     transition: all 1.3s ease;
 }
 
-/* Theme toggle container */
+
 .theme-toggle {
     backdrop-filter: blur(100px);
     box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);

@@ -5,7 +5,6 @@ function validateInput(input) {
     const errorIcon = group.querySelector('.validation-icon.error');
     const message = group.querySelector('.validation-message');
 
-    // Remove digit-only restriction
     const trimmedValue = input.value.trim();
     const isNotEmpty = trimmedValue.length > 0;
 
@@ -38,7 +37,6 @@ function validateForm(form) {
     return Array.from(inputs).every(input => validateInput(input));
 }
 
-// Form Submission Handler
 function handleFormSubmit(isterNumber, formData) {
     const data = {
         authorA: formData.get('authorA'),
@@ -65,7 +63,6 @@ fetch('/submit_form', {
 .then(data => {
     console.log('Received data:', data);
 
-    // Clear previous path highlights and restore original styles
     d3.selectAll("circle").each(function() {
         const circle = d3.select(this);
         const originalFill = circle.attr("data-original-fill");
@@ -89,10 +86,8 @@ fetch('/submit_form', {
         }
     });
 
-    // Update output display
     const outputElement = document.getElementById('output');
 
-    // Handle BST visualization
     if (isterNumber === 3 || (data.image && data.status === 'success')) {
         outputElement.innerHTML = '';
         const img = document.createElement('img');
@@ -103,10 +98,18 @@ fetch('/submit_form', {
         img.style.margin = '20px auto';
         img.alt = 'BST Visualization';
         outputElement.appendChild(img);
+
+        const text = document.createElement('p');
+        text.textContent = data.message || 'No additional message provided.';
+        text.style.textAlign = 'center'; // Ortala
+        text.style.fontFamily = 'Arial, sans-serif';
+        text.style.color = '#555'; // Renk seç
+        text.style.marginTop = '10px';
+        outputElement.appendChild(text);
+
         return;
     }
 
-    // Validate data structure
     if (!data || typeof data !== 'object') {
         throw new Error('Invalid data received from server');
     }
@@ -122,13 +125,11 @@ fetch('/submit_form', {
         `;
     }
 
-    // Handle path visualization if valid
     if (data.path && Array.isArray(data.path)) {
         d3.selectAll("circle")
             .each(function() {
                 const circle = d3.select(this);
 
-                // İlk seferde orijinal değerleri sakla
                 if (!circle.attr("data-original-fill")) {
                     circle.attr("data-original-fill", circle.attr("fill"));
                 }
@@ -142,12 +143,11 @@ fetch('/submit_form', {
             .attr("r", function() {
                 return parseFloat(d3.select(this).attr("r"));
             });
-        // Highlight edges
+
         d3.selectAll("line")
             .each(function() {
                 const line = d3.select(this);
 
-                // İlk seferde orijinal değerleri sakla
                 if (!line.attr("data-original-stroke")) {
                     line.attr("data-original-stroke", line.style("stroke"));
                 }
@@ -156,12 +156,10 @@ fetch('/submit_form', {
                 }
             })
             .filter(d => {
-                // Ardışık nodeları kontrol et
                 for(let i = 0; i < data.path.length - 1; i++) {
                     let currentNode = data.path[i];
                     let nextNode = data.path[i + 1];
 
-                    // Her iki yönü de kontrol et
                     if ((d.source.orcid === currentNode && d.target.orcid === nextNode) ||
                         (d.source.orcid === nextNode && d.target.orcid === currentNode)) {
                             console.log("Match found!"); // Eşleşme bulunduğunda log
@@ -172,7 +170,7 @@ fetch('/submit_form', {
                 }
                 return false;
             })
-            .style("stroke", "red")           // transition yerine direkt style kullan
+            .style("stroke", "red")
             .style("stroke-width", "3px");
 
         }
@@ -183,7 +181,6 @@ fetch('/submit_form', {
 });
 }
 
-// Form Closing Function
 function closeForm(form) {
     if (form) {
         form.classList.add('closing');
@@ -193,9 +190,7 @@ function closeForm(form) {
     }
 }
 
-// Form Generation Function
 function showInputForm(container, isterNumber) {
-    // Create form HTML
     const formHTML = `
         <form class="input-form">
             ${isterNumber !== 6 ? ` 
@@ -225,27 +220,22 @@ function showInputForm(container, isterNumber) {
         </form>
     `;
 
-    // Create form element
     const formWrapper = document.createElement('div');
     formWrapper.innerHTML = formHTML;
     const form = formWrapper.firstElementChild;
 
-    // Insert form after description
     const description = container.querySelector('.ister-description');
     description.insertAdjacentElement('afterend', form);
 
-    // Get inputs and submit button
     const inputs = form.querySelectorAll('input[type="text"]');
     const submitButton = form.querySelector('.submit-button');
 
-    // Input validation listeners
     inputs.forEach(input => {
         input.addEventListener('input', () => {
             const isValid = validateInput(input);
             checkFormValidity(inputs, submitButton);
         });
 
-        // Focus and blur effects
         input.addEventListener('focus', () => {
             input.parentElement.classList.add('focused');
         });
@@ -255,7 +245,6 @@ function showInputForm(container, isterNumber) {
         });
     });
 
-    // Form submission
     form.addEventListener('submit', (e) => {
         e.preventDefault(); // Sayfanın yenilenmesini engeller
         console.log('Form gönderiliyor...');

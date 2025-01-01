@@ -1,37 +1,37 @@
 .center-panel {
         position: relative;
-        z-index: 1;  /* Grafiğin en üstte olmasını sağlar */
+        z-index: 1;
         width: 90%;
         height: 1000px;
-        margin-left: 20%;  /* Sol panelin genişliği kadar kaydır */
+        margin-left: 20%;
     }
 
     #author-graph {
         width: 110%;
         height: 100%;
-        position: relative;  /* Grafik elemanları normalde bu alanda yerleşir */
+        position: relative;
 
     }
-    /* Bağlantılar (Linkler) */
+
 .links .link {
-    stroke: #D0B3FF;              /* Bağlantıların rengini gri yapar */
-    stroke-opacity: 0.6;       /* Bağlantının şeffaflık seviyesini ayarlar */
-    stroke-width: 1.5;         /* Bağlantının kalınlık seviyesini ayarlar */
-    transition: stroke-opacity 0.2s ease; /* Opaklık değişimini animasyonla yapar */
+    stroke: #D0B3FF;
+    stroke-opacity: 0.6;
+    stroke-width: 1.5;
+    transition: stroke-opacity 0.2s ease;
 }
 
 .links .link:hover {
-    stroke-opacity: 1;         /* Bağlantı üzerine gelindiğinde opaklığı %100 yapar */
-    stroke: #8A2BE2;              /* Rengini biraz daha koyu hale getirir */
+    stroke-opacity: 1;
+    stroke: #8A2BE2;
 }
-    /* Sol panel */
+
     .left-panel {
         position: absolute;
         left: 10px;
         width: 20%;
-        height: calc(100vh - 40px); /* Yüksekliği belirleyin */
+        height: calc(100vh - 40px);
         background-color: #f0f0f0;
-        z-index: 2; /* Sol panelin grafiğin üstünde görünmesini sağlar */
+        z-index: 2;
 
     }
 
@@ -40,14 +40,14 @@
         position: absolute;
         right: 10px;
         width: 20%;
-        height: calc(100vh - 40px); /* Yüksekliği belirleyin */
+        height: calc(100vh - 40px);
         background-color: #f0f0f0;
-        z-index: 2; /* Sağ panelin grafiğin üstünde görünmesini sağlar */
+        z-index: 2;
     }
 
     #info-panel {
     padding: 20px;
-    border-radius: 50px !important;  /* Köşeleri yuvarlatma */
+    border-radius: 50px !important;
     backdrop-filter: blur(4.1px) !important;
     border-right: blueviolet !important;
     border-left: blueviolet !important;
@@ -55,24 +55,24 @@
     width: 220px !important;
     height: 330px !important;
     box-shadow:
-        0px 15px 40px rgba(0, 0, 0, 0.5),    /* Büyük ve koyu ana gölge */
-        0px 20px 80px rgba(0, 0, 0, 0.6),    /* Daha geniş ve daha belirgin ikinci gölge */
-        0px 25px 100px rgba(0, 0, 0, 0.4)    /* Daha büyük bir üçüncü gölge */
+        0px 15px 40px rgba(0, 0, 0, 0.5),
+        0px 20px 80px rgba(0, 0, 0, 0.6),
+        0px 25px 100px rgba(0, 0, 0, 0.4)
     !important;
     display: none;
     transition: opacity 1.5s ease, transform 1.5s ease;
-    cursor: pointer; /* Tıklanabilir olduğunu göstermek için */
-    opacity: 1;  /* Başlangıçta tamamen görünür */
+    cursor: pointer;
+    opacity: 1;
     transform: perspective(600px) rotateX(10deg) rotateY(10deg);
 }
 
-/* Panelin kaybolması */
+
 #info-panel.hidden {
-    opacity: 0;  /* Şeffaflık sıfır olacak */
-    transform: perspective(600px) rotateX(10deg) rotateY(10deg) scale(0.8);  /* Daha küçük ve kaybolan bir görünüme sahip */
+    opacity: 0;
+    transform: perspective(600px) rotateX(10deg) rotateY(10deg) scale(0.8);
 }
 
-/* Hover durumu (panel üzerine gelince) */
+
 #info-panel:hover {
     transform: perspective(600px) rotateX(0deg) rotateY(0deg) translateZ(60px);
     box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.5), 0px 10px 25px rgba(0, 0, 0, 0.7);
@@ -85,25 +85,25 @@
         border-left: blueviolet !important;
     }
 
-    /* Etiketler (Labels) için stil */
+
 .graph-labels text {
-    font-size: 12px; /* Etiket yazı boyutu */
-    fill: white !important; /* Etiket rengi (koyu gri) */
-    font-family: Arial, sans-serif; /* Yazı tipi */
-    text-anchor: middle; /* Yazıyı etiketin ortasında hizala */
-    pointer-events: none; /* Etiketlerin tıklanabilir olmasını engelle */
-    user-select: none; /* Kullanıcıların etiketi seçmesini engelle */
-    transition: fill 0.3s ease; /* Etiket renk değişim animasyonu */
+    font-size: 12px;
+    fill: white !important;
+    font-family: Arial, sans-serif;
+    text-anchor: middle;
+    pointer-events: none;
+    user-select: none;
+    transition: fill 0.3s ease;
 }
 
 body.light-theme .graph-labels text {
-    fill: black !important; /* Açık temada gri rengi uygulama */
+    fill: black !important;
 }
 
 #close-info-panel {
     position: absolute;
     top: 10px;
-    left: 10px; /* Sol üst köşeye yerleştiriyoruz */
+    left: 10px;
     background: transparent;
     border: none;
     font-size: 24px;
@@ -112,5 +112,5 @@ body.light-theme .graph-labels text {
 }
 
 #close-info-panel:hover {
-    color: #ff4d4d; /* Kırmızıya dönüş */
+    color: #ff4d4d;
 }

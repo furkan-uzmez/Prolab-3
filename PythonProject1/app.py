@@ -1,5 +1,5 @@
 import base64
-from flask import Flask, render_template, request, jsonify,send_file
+from flask import Flask, render_template, request, jsonify
 import time
 from bst import BSTVisualizer,convert_bst_to_json
 from main import load_authors, process_ister1, process_single_author
@@ -7,16 +7,19 @@ from flask_cors import CORS
 
 global temp_bst
 global temp_path
+global temp_idler
+
 app = Flask(__name__, template_folder='templates', static_folder='static')
 CORS(app)
 
 @app.route('/api/graph-data')
 def get_graph_data():
-    yazarlar,names,graph = load_authors()
+    global temp_idler
+    yazarlar,idler,graph = load_authors()
     nodes = []
     links = []
     node_map = {}
-
+    temp_idler = idler
 
     # Create nodes
     for i, yazar in enumerate(yazarlar):
@@ -118,41 +121,43 @@ def submit_single_author(author_id,ister_number):
         print("Temp_bst:")
         temp_bst.Print(temp_bst.root)
         temp_bst.root = temp_bst.Remove(temp_bst.root,temp_path.index(author_id))
+        temp_path.remove(author_id)
         print("Temp_bst:")
         temp_bst.Print(temp_bst.root)
-        return handle_bst(temp_bst)
+        return handle_bst(temp_bst,f"{temp_idler[author_id].name} çıkarıldı")
     else:
         result, path = process_single_author(author_id, ister_number)
         return jsonify({'result': result, 'path': path})
 
 
 #BST visualization
-def handle_bst(temp_bst):
-    #global temp_bst
+def handle_bst(temp_bst,message):
 
     if temp_bst is None:
         return jsonify({'status': 'error', 'message': 'No BST data available'})
 
-        # Check Accept header
+    # Check Accept header
     accept_header = request.headers.get('Accept', '')
 
     try:
         visualizer = BSTVisualizer()
 
         if 'application/json' in accept_header:
-                # Return JSON representation
+            # Return JSON representation
             tree_data = convert_bst_to_json(temp_bst.root)
             return jsonify({
                 'status': 'success',
-                 'tree': tree_data
+                 'tree': tree_data,
+                'message': message
               })
         else:
-                # Return PNG image with base64 encoding
+            # Return PNG image with base64 encoding
             png_buffer = visualizer.visualize_to_png(temp_bst)
             base64_image = base64.b64encode(png_buffer.getvalue()).decode('utf-8')
             return jsonify({
                 'status': 'success',
-                'image': f'data:image/png;base64,{base64_image}'
+                'image': f'data:image/png;base64,{base64_image}',
+                'message': message
             })
     except Exception as e:
         return jsonify({'status': 'error', 'message': str(e)})
