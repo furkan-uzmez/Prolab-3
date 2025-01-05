@@ -149,7 +149,7 @@ class AVLTree:
         self.Print(root.right)
 
 class BSTVisualizer:
-    def __init__(self, width=800, height=800, node_radius=30, vertical_spacing=200, spacing_factor=4):
+    def __init__(self, width=800, height=800, node_radius=30, vertical_spacing=200, spacing_factor=2):
         self.width = width
         self.height = height
         self.node_radius = node_radius
